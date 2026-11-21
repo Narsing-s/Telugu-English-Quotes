@@ -1,0 +1,41 @@
+[
+  {
+    "id": "HEA001",
+    "category": "heartbreak",
+    "telugu": "నమ్మిన మనసే బాధిస్తే, ఆ బాధను మాటల్లో చెప్పలేం.",
+    "english": "When the heart you trusted becomes the reason for your pain, words cannot explain it.",
+    "transliteration": "Nammina manase baadhiste, aa baadhanu maatal lo cheppalem.",
+    "mood": "sad",
+    "tags": [
+      "heartbreak",
+      "trust",
+      "pain"
+    ]
+  },
+  {
+    "id": "HEA002",
+    "category": "heartbreak",
+    "telugu": "కొన్ని వీడ్కోళ్లు మాటలతో జరగవు… మౌనంతో మొదలవుతాయి.",
+    "english": "Some goodbyes are never spoken; they begin with silence.",
+    "transliteration": "Konni veedkolu maatalatho jaragavu… mounamtho modalavutayi.",
+    "mood": "melancholic",
+    "tags": [
+      "goodbye",
+      "silence",
+      "heartbreak"
+    ]
+  },
+  {
+    "id": "HEA003",
+    "category": "heartbreak",
+    "telugu": "బయట నవ్వుతున్నా, లోపల ఏమి జరుగుతుందో మనసుకే తెలుసు.",
+    "english": "I may smile outside, but only my heart knows what is happening within.",
+    "transliteration": "Bayata navvutunna, lopala emi jarugutundo manasuke telusu.",
+    "mood": "sad",
+    "tags": [
+      "hidden-pain",
+      "smile",
+      "emotions"
+    ]
+  }
+]
