@@ -1,0 +1,54 @@
+[
+  {
+    "id": "MEM001",
+    "category": "memories",
+    "telugu": "కొన్ని జ్ఞాపకాలు నిద్రను దూరం చేస్తాయి.",
+    "english": "Some memories keep us awake at night.",
+    "transliteration": "Konni gnapakalu nidranu dooram chestayi.",
+    "mood": "emotional",
+    "tags": [
+      "memories",
+      "night",
+      "emotions"
+    ]
+  },
+  {
+    "id": "MEM002",
+    "category": "memories",
+    "telugu": "మరిచిపోయామని అనుకున్న క్షణాలే ఒక్కోసారి ఎక్కువగా గుర్తొస్తాయి.",
+    "english": "The moments we think we have forgotten sometimes return the strongest.",
+    "transliteration": "Marichipoyamani anukunna kshanale okkosari ekkuvaga gurtostayi.",
+    "mood": "nostalgic",
+    "tags": [
+      "nostalgia",
+      "past",
+      "memories"
+    ]
+  },
+  {
+    "id": "MEM003",
+    "category": "memories",
+    "telugu": "కాలం గడిచిపోతుంది… కానీ కొన్ని జ్ఞాపకాలు అక్కడే ఆగిపోతాయి.",
+    "english": "Time moves on, but some memories remain frozen in the same moment.",
+    "transliteration": "Kaalam gadichipotundi… kaani konni gnapakalu akkade aagipotayi.",
+    "mood": "reflective",
+    "tags": [
+      "time",
+      "memories",
+      "past"
+    ]
+  },
+  {
+    "id": "MEM004",
+    "category": "memories",
+    "telugu": "ఒక చిన్న జ్ఞాపకం కూడా మనసులో పెద్ద కథను మొదలుపెడుతుంది.",
+    "english": "Even a small memory can unfold a whole story in the heart.",
+    "transliteration": "Oka chinna gnapakam kooda manasulo pedda kathanu modalupedutundi.",
+    "mood": "thoughtful",
+    "tags": [
+      "memory",
+      "heart",
+      "story"
+    ]
+  }
+]
