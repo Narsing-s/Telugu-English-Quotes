@@ -1,0 +1,41 @@
+[
+  {
+    "id": "IND001",
+    "category": "indirect-quotes",
+    "telugu": "కొన్ని మార్పులు ఎవరి గురించి చెప్పవు… కానీ ఎవరికో అర్థమవుతాయి.",
+    "english": "Some changes mention no one, yet someone will understand them.",
+    "transliteration": "Konni maarpulu evari gurinchi cheppavu… kaani evariko arthamavutayi.",
+    "mood": "subtle",
+    "tags": [
+      "indirect",
+      "change",
+      "unspoken"
+    ]
+  },
+  {
+    "id": "IND002",
+    "category": "indirect-quotes",
+    "telugu": "పాత పరిచయాలు కొత్త అవసరాలతో తిరిగి వస్తే, కాలమే సమాధానం చెబుతుంది.",
+    "english": "When old connections return with new needs, time itself gives the answer.",
+    "transliteration": "Paata parichayaalu kotta avasaraalatho tirigi vaste, kaalame samaadhaanam chebutundi.",
+    "mood": "thoughtful",
+    "tags": [
+      "indirect",
+      "friendship",
+      "expectations"
+    ]
+  },
+  {
+    "id": "IND003",
+    "category": "indirect-quotes",
+    "telugu": "ఎవరినీ ఉద్దేశించి చెప్పడం లేదు… అర్థం చేసుకునేవారికి అర్థమవుతుంది.",
+    "english": "This is not aimed at anyone; those who understand will understand.",
+    "transliteration": "Evarini uddeshinchi cheppadam ledu… artham chesukunevaariki arthamavutundi.",
+    "mood": "subtle",
+    "tags": [
+      "indirect",
+      "status",
+      "unspoken"
+    ]
+  }
+]
