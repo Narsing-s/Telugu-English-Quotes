@@ -4,7 +4,7 @@ const key=process.env.OPENAI_API_KEY;
 if(!key) throw new Error("OPENAI_API_KEY secret is required");
 const dir="quotes";
 const categories=["memories","friendship","friendship-break","love","heartbreak","life","motivation","devotional","attitude","self-respect","family","loneliness","indirect-quotes"];
-const category=categories[new Date().getUTCDate()%categories.length];
+const now=new Date();\nconst dayOfYear=Math.floor((Date.UTC(now.getUTCFullYear(),now.getUTCMonth(),now.getUTCDate())-Date.UTC(now.getUTCFullYear(),0,0))/86400000);\nconst category=categories[dayOfYear%categories.length];
 const file=path.join(dir,category+".json");
 const existing=JSON.parse(await fs.readFile(file,"utf8"));
 const recent=existing.slice(-80).map(q=>q.telugu);
