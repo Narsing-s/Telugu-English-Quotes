@@ -1,0 +1,41 @@
+[
+  {
+    "id": "MOT001",
+    "category": "motivation",
+    "telugu": "నెమ్మదిగా వెళ్లినా పర్వాలేదు… ఆగిపోకుండా ముందుకు సాగు.",
+    "english": "It is okay to move slowly; just keep moving forward.",
+    "transliteration": "Nemmadiga vellina parvaledu… aagipokunda munduku saagu.",
+    "mood": "motivational",
+    "tags": [
+      "motivation",
+      "consistency",
+      "progress"
+    ]
+  },
+  {
+    "id": "MOT002",
+    "category": "motivation",
+    "telugu": "నీ మీద నీకు నమ్మకం ఉంటే, మొదటి అడుగే సగం విజయం.",
+    "english": "When you believe in yourself, taking the first step is already half the victory.",
+    "transliteration": "Nee meeda neeku nammakam unte, modati aduge sagam vijayam.",
+    "mood": "inspiring",
+    "tags": [
+      "confidence",
+      "success",
+      "motivation"
+    ]
+  },
+  {
+    "id": "MOT003",
+    "category": "motivation",
+    "telugu": "ఓటమి నీ కథకు ముగింపు కాదు; మళ్లీ మొదలుపెట్టే అవకాశం.",
+    "english": "Failure is not the end of your story; it is another chance to begin.",
+    "transliteration": "Otami nee kathaku mugimpu kaadu; malli modalupette avakaasham.",
+    "mood": "hopeful",
+    "tags": [
+      "failure",
+      "resilience",
+      "hope"
+    ]
+  }
+]
