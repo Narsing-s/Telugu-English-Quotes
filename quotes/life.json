@@ -1,0 +1,41 @@
+[
+  {
+    "id": "LIF001",
+    "category": "life",
+    "telugu": "జీవితం ప్రతి రోజూ సమాధానాలు ఇవ్వదు; కొన్నిసార్లు ప్రశ్నలతోనే బలంగా మారుస్తుంది.",
+    "english": "Life does not give answers every day; sometimes its questions make us stronger.",
+    "transliteration": "Jeevitham prati roju samaadhaanalu ivvadu; konnisaarlu prashnalathone balanga maarustundi.",
+    "mood": "thoughtful",
+    "tags": [
+      "life",
+      "growth",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "LIF002",
+    "category": "life",
+    "telugu": "ప్రతి ఒక్కరి ప్రయాణం వేరు; కాబట్టి నీ అడుగులను మరొకరితో పోల్చకు.",
+    "english": "Everyone has a different journey, so do not compare your steps with someone else's.",
+    "transliteration": "Prati okkarి prayaanam veru; kaabatti nee adugulanu marokarito polchaku.",
+    "mood": "encouraging",
+    "tags": [
+      "life",
+      "journey",
+      "self-growth"
+    ]
+  },
+  {
+    "id": "LIF003",
+    "category": "life",
+    "telugu": "కొన్ని మార్పులు మనం కోరుకున్నవి కావు… కానీ అవే మనల్ని కొత్తగా తీర్చిదిద్దుతాయి.",
+    "english": "Some changes are not what we wished for, yet they reshape us into someone new.",
+    "transliteration": "Konni maarpulu manam korukunnavi kaavu… kaani ave manalni kottaga teerchididdutayi.",
+    "mood": "reflective",
+    "tags": [
+      "change",
+      "life",
+      "growth"
+    ]
+  }
+]
