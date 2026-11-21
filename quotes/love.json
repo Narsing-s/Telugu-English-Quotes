@@ -1,0 +1,41 @@
+[
+  {
+    "id": "LOV001",
+    "category": "love",
+    "telugu": "నిజమైన ప్రేమ మాటల్లో కాదు, చూపించే శ్రద్ధలో కనిపిస్తుంది.",
+    "english": "True love is seen not in words, but in the care someone shows.",
+    "transliteration": "Nijamaina prema maatal lo kaadu, choopinche shraddhalo kanipistundi.",
+    "mood": "romantic",
+    "tags": [
+      "love",
+      "care",
+      "trust"
+    ]
+  },
+  {
+    "id": "LOV002",
+    "category": "love",
+    "telugu": "మనసుకు నచ్చిన వ్యక్తి దగ్గర చిన్న మాట కూడా ఎంతో విలువైనదవుతుంది.",
+    "english": "A small word means so much when it comes from someone your heart cherishes.",
+    "transliteration": "Manasuku nachina vyakti daggara chinna maata kooda entho viluvainadavutundi.",
+    "mood": "tender",
+    "tags": [
+      "love",
+      "affection",
+      "words"
+    ]
+  },
+  {
+    "id": "LOV003",
+    "category": "love",
+    "telugu": "ప్రేమ అంటే ఎప్పుడూ దగ్గరగా ఉండటం కాదు… దూరంలో ఉన్నా మనసుకు దగ్గరగా ఉండటం.",
+    "english": "Love is not always being physically close; it is staying close at heart even from afar.",
+    "transliteration": "Prema ante eppudoo daggaraga undatam kaadu… dooramlo unna manasuku daggaraga undatam.",
+    "mood": "romantic",
+    "tags": [
+      "love",
+      "distance",
+      "connection"
+    ]
+  }
+]
