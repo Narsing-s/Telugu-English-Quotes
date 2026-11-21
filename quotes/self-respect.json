@@ -1,0 +1,41 @@
+[
+  {
+    "id": "SEL001",
+    "category": "self-respect",
+    "telugu": "మనసుకు గౌరవం లేని చోట ఉండటం కంటే, ఒంటరిగా ఉండటం మేలు.",
+    "english": "It is better to stand alone than to stay where your heart is not respected.",
+    "transliteration": "Manasuku gauravam leni chota undatam kante, ontariga undatam melu.",
+    "mood": "strong",
+    "tags": [
+      "self-respect",
+      "boundaries",
+      "worth"
+    ]
+  },
+  {
+    "id": "SEL002",
+    "category": "self-respect",
+    "telugu": "అందరినీ సంతోషపెట్టే క్రమంలో నిన్ను నువ్వు కోల్పోకు.",
+    "english": "Do not lose yourself while trying to make everyone happy.",
+    "transliteration": "Andarini santoshapette kramamlo ninnu nuvvu kolpoku.",
+    "mood": "empowering",
+    "tags": [
+      "self-respect",
+      "self-worth",
+      "boundaries"
+    ]
+  },
+  {
+    "id": "SEL003",
+    "category": "self-respect",
+    "telugu": "నీ విలువను గుర్తించు; ప్రతి చోట అంగీకారం కోసం ఎదురుచూడకు.",
+    "english": "Know your worth; do not wait for approval everywhere.",
+    "transliteration": "Nee viluvanu gurtinchu; prati chota angeekaaram kosam eduruchoodaku.",
+    "mood": "confident",
+    "tags": [
+      "self-worth",
+      "respect",
+      "confidence"
+    ]
+  }
+]
