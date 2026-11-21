@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ATT001",
+    "category": "attitude",
+    "telugu": "నా విలువను నిరూపించుకోవడానికి ప్రతి ఒక్కరి ముందు నిలబడాల్సిన అవసరం లేదు.",
+    "english": "I do not need to stand before everyone to prove my worth.",
+    "transliteration": "Naa viluvanu nirupinchukovadaniki prati okkarి mundu nilabadalsina avasaram ledu.",
+    "mood": "confident",
+    "tags": [
+      "attitude",
+      "confidence",
+      "worth"
+    ]
+  },
+  {
+    "id": "ATT002",
+    "category": "attitude",
+    "telugu": "నిశ్శబ్దంగా ఉండటం బలహీనత కాదు; ఎప్పుడు మాట్లాడాలో తెలిసిన పరిపక్వత.",
+    "english": "Silence is not weakness; it is the maturity to know when to speak.",
+    "transliteration": "Nishshabdanga undatam balahinata kaadu; eppudu maatladaalo telisina paripakvata.",
+    "mood": "bold",
+    "tags": [
+      "attitude",
+      "silence",
+      "maturity"
+    ]
+  },
+  {
+    "id": "ATT003",
+    "category": "attitude",
+    "telugu": "నా ప్రయాణం నా వేగంలోనే సాగుతుంది; పోలికలకు ఇక్కడ చోటు లేదు.",
+    "english": "I move at my own pace; there is no room for comparisons here.",
+    "transliteration": "Naa prayaanam naa vegamlone saaguthundi; polikalaku ikkada chotu ledu.",
+    "mood": "confident",
+    "tags": [
+      "self-belief",
+      "attitude",
+      "journey"
+    ]
+  }
+]
