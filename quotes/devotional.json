@@ -1,0 +1,41 @@
+[
+  {
+    "id": "DEV001",
+    "category": "devotional",
+    "telugu": "నమ్మకంతో వేసే ప్రతి అడుగులోనూ దైవబలం తోడుంటుంది.",
+    "english": "Divine strength accompanies every step taken with faith.",
+    "transliteration": "Nammakంతో vese prati adugulonoo daivabalam thoduntundi.",
+    "mood": "devotional",
+    "tags": [
+      "faith",
+      "devotion",
+      "strength"
+    ]
+  },
+  {
+    "id": "DEV002",
+    "category": "devotional",
+    "telugu": "మనసు భారంగా ఉన్నప్పుడు ప్రార్థన ఒక నిశ్శబ్దమైన ఓదార్పు.",
+    "english": "When the heart feels heavy, prayer can be a quiet comfort.",
+    "transliteration": "Manasu bhaaranga unnappudu praarthana oka nishshabdhamaina odaarpu.",
+    "mood": "peaceful",
+    "tags": [
+      "prayer",
+      "peace",
+      "faith"
+    ]
+  },
+  {
+    "id": "DEV003",
+    "category": "devotional",
+    "telugu": "దారి కనిపించని వేళ దైవంపై నమ్మకం మనసుకు ధైర్యం ఇస్తుంది.",
+    "english": "When the way is unclear, faith in the divine gives the heart courage.",
+    "transliteration": "Daari kanipinchani vela daivampai nammakam manasuku dhairyam istundi.",
+    "mood": "faithful",
+    "tags": [
+      "faith",
+      "courage",
+      "devotion"
+    ]
+  }
+]
