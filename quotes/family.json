@@ -1,0 +1,41 @@
+[
+  {
+    "id": "FAM001",
+    "category": "family",
+    "telugu": "మన విజయానికి ముందే మనల్ని నమ్మే వాళ్లు కుటుంబం.",
+    "english": "Family is the people who believe in us even before we succeed.",
+    "transliteration": "Mana vijayaaniki munde manalni namme vaallu kutumbam.",
+    "mood": "warm",
+    "tags": [
+      "family",
+      "support",
+      "love"
+    ]
+  },
+  {
+    "id": "FAM002",
+    "category": "family",
+    "telugu": "ఇంటి విలువ దాని గోడల్లో కాదు, మన కోసం ఎదురుచూసే మనుషుల్లో ఉంటుంది.",
+    "english": "A home is not defined by its walls, but by the people waiting for us.",
+    "transliteration": "Inti viluva daani godallo kaadu, mana kosam eduruchuse manushullo untundi.",
+    "mood": "heartfelt",
+    "tags": [
+      "home",
+      "family",
+      "belonging"
+    ]
+  },
+  {
+    "id": "FAM003",
+    "category": "family",
+    "telugu": "మనసు అలసిపోయినప్పుడు తిరిగి వెళ్లాలనిపించే చోటే ఇల్లు.",
+    "english": "Home is the place we long to return to when our hearts grow tired.",
+    "transliteration": "Manasu alasipoyinappudu tirigi vellalanipinche chote illu.",
+    "mood": "comforting",
+    "tags": [
+      "family",
+      "home",
+      "comfort"
+    ]
+  }
+]
