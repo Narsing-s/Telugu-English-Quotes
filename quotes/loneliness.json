@@ -1,0 +1,41 @@
+[
+  {
+    "id": "LON001",
+    "category": "loneliness",
+    "telugu": "చుట్టూ ఎంతోమంది ఉన్నా, మనసు అర్థం చేసుకునే ఒక్కరు లేకపోతే ఒంటరితనమే.",
+    "english": "Even in a crowd, it feels lonely when no one truly understands your heart.",
+    "transliteration": "Chuttoo entho mandi unna, manasu artham chesukune okkaru lekapothe ontaritaname.",
+    "mood": "lonely",
+    "tags": [
+      "loneliness",
+      "understanding",
+      "emotions"
+    ]
+  },
+  {
+    "id": "LON002",
+    "category": "loneliness",
+    "telugu": "కొన్నిసార్లు మనకు కావాల్సింది సమాధానం కాదు… మన మాట వినే ఒక మనసు.",
+    "english": "Sometimes we do not need an answer; we just need a heart willing to listen.",
+    "transliteration": "Konnisarlu manaku kaavalsindi samaadhaanam kaadu… mana maata vine oka manasu.",
+    "mood": "reflective",
+    "tags": [
+      "loneliness",
+      "listening",
+      "support"
+    ]
+  },
+  {
+    "id": "LON003",
+    "category": "loneliness",
+    "telugu": "ఒంటరిగా ఉండటం నేర్చుకున్నాక, నిశ్శబ్దం కూడా తోడుగా అనిపిస్తుంది.",
+    "english": "Once you learn to be alone, even silence can feel like company.",
+    "transliteration": "Ontariga undatam nerchukunnaka, nishshabdam kooda thoduga anipistundi.",
+    "mood": "calm",
+    "tags": [
+      "solitude",
+      "silence",
+      "growth"
+    ]
+  }
+]
