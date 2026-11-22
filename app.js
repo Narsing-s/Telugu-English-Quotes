@@ -13,7 +13,7 @@ autoButton.type="button";autoButton.className="ghost autoplay-toggle";autoButton
 $("copy").insertAdjacentElement("afterend",autoButton);
 function updateAutoButton(){autoButton.textContent=autoPlay?"Ⅱ Pause":"▶ Play";autoButton.setAttribute("aria-pressed",String(autoPlay));autoButton.title=autoPlay?"Pause automatic quote rotation":"Resume automatic quote rotation"}
 function stopAuto(){if(autoTimer){clearInterval(autoTimer);autoTimer=null}}
-function startAuto(){stopAuto();if(!autoPlay||document.hidden||quotes.length<2)return;autoTimer=setInterval(()=>{if(!document.hidden&&!document.querySelector(".quote-card:focus-within"))moveQuote(1,true)},AUTO_DELAY)}
+function startAuto(){stopAuto();if(!autoPlay||document.hidden||quotes.length<2)return;autoTimer=setInterval(()=>{if(!document.hidden)moveQuote(1,true)},AUTO_DELAY)}
 function setAuto(value){autoPlay=value;updateAutoButton();startAuto()}
 function animateCard(){const card=document.querySelector(".quote-card");card.classList.remove("quote-enter");void card.offsetWidth;card.classList.add("quote-enter");clearTimeout(animationTimer);animationTimer=setTimeout(()=>card.classList.remove("quote-enter"),650)}
 function render(animate=false){
