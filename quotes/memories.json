@@ -76,5 +76,44 @@
       "memories",
       "acceptance"
     ]
+  },
+  {
+    "id": "MEM0007",
+    "category": "memories",
+    "telugu": "కొన్ని మధుర క్షణాలు మనకు కాలం విలువను నేర్పిస్తాయి.",
+    "english": "Some sweet moments teach us the value of time.",
+    "transliteration": "",
+    "mood": "memories",
+    "tags": [
+      "memories",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "MEM0008",
+    "category": "memories",
+    "telugu": "కాలం మారినా, మధుర క్షణాలు ఇచ్చిన కాలం విలువను మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, the value of time from sweet moments stays with us.",
+    "transliteration": "",
+    "mood": "memories",
+    "tags": [
+      "memories",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "MEM0009",
+    "category": "memories",
+    "telugu": "ప్రతి మధుర క్షణాలు వెనుక కాలం విలువను దాగి ఉంటుంది.",
+    "english": "Behind every sweet moments, there is the value of time waiting to be understood.",
+    "transliteration": "",
+    "mood": "memories",
+    "tags": [
+      "memories",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

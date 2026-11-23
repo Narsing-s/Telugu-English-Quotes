@@ -63,5 +63,31 @@
       "silence",
       "time"
     ]
+  },
+  {
+    "id": "IND0006",
+    "category": "indirect-quotes",
+    "telugu": "ప్రతి ఒక చిన్న మౌనం వెనుక మనకు పాఠం నేర్పుతుంది దాగి ఉంటుంది.",
+    "english": "Behind every a brief silence, there is teaches us a lesson waiting to be understood.",
+    "transliteration": "",
+    "mood": "indirect-quotes",
+    "tags": [
+      "indirect-quotes",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "IND0007",
+    "category": "indirect-quotes",
+    "telugu": "కొన్ని కాలం ఇచ్చే సమాధానం మనకు మాటలకంటే ఎక్కువ చెబుతుంది నేర్పిస్తాయి.",
+    "english": "Some time's answer teach us says more than words.",
+    "transliteration": "",
+    "mood": "indirect-quotes",
+    "tags": [
+      "indirect-quotes",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

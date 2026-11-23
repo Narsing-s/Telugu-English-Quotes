@@ -63,5 +63,31 @@
       "home",
       "belonging"
     ]
+  },
+  {
+    "id": "FAM0006",
+    "category": "family",
+    "telugu": "ప్రతి తల్లిదండ్రుల ఆశీర్వాదం వెనుక గౌరవాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every parents' blessings, there is respect waiting to be understood.",
+    "transliteration": "",
+    "mood": "family",
+    "tags": [
+      "family",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FAM0007",
+    "category": "family",
+    "telugu": "కొన్ని ఇంటి చిరునవ్వులు మనకు మన మూలాలను గుర్తించడాన్ని నేర్పిస్తాయి.",
+    "english": "Some smiles at home teach us remembering our roots.",
+    "transliteration": "",
+    "mood": "family",
+    "tags": [
+      "family",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

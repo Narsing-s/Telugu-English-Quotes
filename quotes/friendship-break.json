@@ -137,5 +137,44 @@
       "friendship-break",
       "growth"
     ]
+  },
+  {
+    "id": "FRB0011",
+    "category": "friendship-break",
+    "telugu": "కాలం మారినా, చెదిరిన నమ్మకం ఇచ్చిన మనశ్శాంతిని కాపాడుకోవడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, protecting peace of mind from broken trust stays with us.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRB0012",
+    "category": "friendship-break",
+    "telugu": "ప్రతి చెదిరిన నమ్మకం వెనుక మనశ్శాంతిని కాపాడుకోవడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every broken trust, there is protecting peace of mind waiting to be understood.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRB0013",
+    "category": "friendship-break",
+    "telugu": "కొన్ని మౌనంగా మారిన బంధం మనకు కొత్త ఆరంభాన్ని నేర్పిస్తాయి.",
+    "english": "Some a silent bond teach us a fresh beginning.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

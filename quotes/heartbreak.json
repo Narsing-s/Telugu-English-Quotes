@@ -63,5 +63,31 @@
       "strength",
       "healing"
     ]
+  },
+  {
+    "id": "HEA0006",
+    "category": "heartbreak",
+    "telugu": "ప్రతి చెప్పని కన్నీళ్లు వెనుక గతాన్ని అంగీకరించడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every unspoken tears, there is accepting the past waiting to be understood.",
+    "transliteration": "",
+    "mood": "heartbreak",
+    "tags": [
+      "heartbreak",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "HEA0007",
+    "category": "heartbreak",
+    "telugu": "కొన్ని దూరమైన ప్రేమ మనకు ఓర్పుతో ముందుకు సాగడాన్ని నేర్పిస్తాయి.",
+    "english": "Some love that drifted away teach us moving forward patiently.",
+    "transliteration": "",
+    "mood": "heartbreak",
+    "tags": [
+      "heartbreak",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

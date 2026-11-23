@@ -76,5 +76,44 @@
       "support",
       "loyalty"
     ]
+  },
+  {
+    "id": "FRI0007",
+    "category": "friendship",
+    "telugu": "కొన్ని కష్టకాలంలో తోడు మనకు నిజాయితీ గొప్పతనాన్ని నేర్పిస్తాయి.",
+    "english": "Some support in hard times teach us the beauty of honesty.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRI0008",
+    "category": "friendship",
+    "telugu": "కాలం మారినా, కష్టకాలంలో తోడు ఇచ్చిన నిజాయితీ గొప్పతనాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, the beauty of honesty from support in hard times stays with us.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRI0009",
+    "category": "friendship",
+    "telugu": "ప్రతి కష్టకాలంలో తోడు వెనుక నిజాయితీ గొప్పతనాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every support in hard times, there is the beauty of honesty waiting to be understood.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

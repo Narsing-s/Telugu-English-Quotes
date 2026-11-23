@@ -63,5 +63,44 @@
       "understanding",
       "growth"
     ]
+  },
+  {
+    "id": "LOV0006",
+    "category": "love",
+    "telugu": "ప్రతి చిన్న శ్రద్ధ వెనుక నిజాయితీ అందాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every small acts of care, there is the beauty of honesty waiting to be understood.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LOV0007",
+    "category": "love",
+    "telugu": "కొన్ని ప్రియమైన వ్యక్తి మనకు మనసుకు ప్రశాంతతను నేర్పిస్తాయి.",
+    "english": "Some a loved one teach us peace to the heart.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LOV0008",
+    "category": "love",
+    "telugu": "కాలం మారినా, ప్రియమైన వ్యక్తి ఇచ్చిన మనసుకు ప్రశాంతతను మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, peace to the heart from a loved one stays with us.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

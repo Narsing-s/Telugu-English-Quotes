@@ -63,5 +63,31 @@
       "maturity",
       "attitude"
     ]
+  },
+  {
+    "id": "ATT0006",
+    "category": "attitude",
+    "telugu": "ప్రతి మన మౌనం వెనుక స్పష్టతను దాగి ఉంటుంది.",
+    "english": "Behind every our silence, there is clarity waiting to be understood.",
+    "transliteration": "",
+    "mood": "attitude",
+    "tags": [
+      "attitude",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "ATT0007",
+    "category": "attitude",
+    "telugu": "కొన్ని మన నిర్ణయం మనకు మన దారిలో నడవడాన్ని నేర్పిస్తాయి.",
+    "english": "Some our decision teach us walking our own path.",
+    "transliteration": "",
+    "mood": "attitude",
+    "tags": [
+      "attitude",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

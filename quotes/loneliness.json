@@ -63,5 +63,31 @@
       "self-growth",
       "peace"
     ]
+  },
+  {
+    "id": "LON0006",
+    "category": "loneliness",
+    "telugu": "ప్రతి నిశ్శబ్ద గది వెనుక ప్రశాంతతను వెతకడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every a silent room, there is finding peace waiting to be understood.",
+    "transliteration": "",
+    "mood": "loneliness",
+    "tags": [
+      "loneliness",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LON0007",
+    "category": "loneliness",
+    "telugu": "కొన్ని చెప్పని భావాలు మనకు ఓర్పును నేర్పిస్తాయి.",
+    "english": "Some unspoken feelings teach us patience.",
+    "transliteration": "",
+    "mood": "loneliness",
+    "tags": [
+      "loneliness",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

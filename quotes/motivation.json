@@ -63,5 +63,31 @@
       "effort",
       "success"
     ]
+  },
+  {
+    "id": "MOT0006",
+    "category": "motivation",
+    "telugu": "ప్రతి ప్రతి ఉదయం వెనుక సమయపాలన విలువను దాగి ఉంటుంది.",
+    "english": "Behind every every morning, there is the value of time waiting to be understood.",
+    "transliteration": "",
+    "mood": "motivation",
+    "tags": [
+      "motivation",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "MOT0007",
+    "category": "motivation",
+    "telugu": "కొన్ని క్రమశిక్షణ మనకు ముందుకు వెళ్లే ధైర్యాన్ని నేర్పిస్తాయి.",
+    "english": "Some discipline teach us courage to move ahead.",
+    "transliteration": "",
+    "mood": "motivation",
+    "tags": [
+      "motivation",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

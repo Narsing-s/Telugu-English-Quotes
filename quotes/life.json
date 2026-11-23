@@ -63,5 +63,31 @@
       "patience",
       "progress"
     ]
+  },
+  {
+    "id": "LIF0006",
+    "category": "life",
+    "telugu": "ప్రతి ప్రతి మలుపు వెనుక ముందుకు సాగడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every every turn, there is moving forward waiting to be understood.",
+    "transliteration": "",
+    "mood": "life",
+    "tags": [
+      "life",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LIF0007",
+    "category": "life",
+    "telugu": "కొన్ని చిన్న అనుభవం మనకు ప్రతి రోజును గౌరవించడాన్ని నేర్పిస్తాయి.",
+    "english": "Some a small experience teach us valuing each day.",
+    "transliteration": "",
+    "mood": "life",
+    "tags": [
+      "life",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]
