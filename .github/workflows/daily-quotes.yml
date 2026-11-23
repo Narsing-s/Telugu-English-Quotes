@@ -16,7 +16,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     outputs:
-      added: \${{ steps.generate.outputs.added }}
+      added: ${{ steps.generate.outputs.added }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -29,10 +29,10 @@ jobs:
         run: node scripts/generate-daily-quotes.mjs
       - name: Show quote generation result
         run: |
-          echo "::notice title=Quote generation::Added \${{ steps.generate.outputs.added }} new quotes across 13 categories."
+          echo "::notice title=Quote generation::Added ${{ steps.generate.outputs.added }} new quotes across 13 categories."
           echo "### Workflow result" >> "$GITHUB_STEP_SUMMARY"
           echo "" >> "$GITHUB_STEP_SUMMARY"
-          echo "**Total added: \${{ steps.generate.outputs.added }} / 30**" >> "$GITHUB_STEP_SUMMARY"
+          echo "**Total added: ${{ steps.generate.outputs.added }} / 30**" >> "$GITHUB_STEP_SUMMARY"
       - name: Commit and push new quotes
         run: |
           if git diff --quiet -- quotes/; then
