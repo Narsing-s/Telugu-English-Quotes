@@ -37,5 +37,31 @@
       "status",
       "unspoken"
     ]
+  },
+  {
+    "id": "IND004",
+    "category": "indirect-quotes",
+    "telugu": "మాటలు అందరికీ వినిపిస్తాయి… కానీ వాటి వెనుక ఉన్న భావం కొందరికే అర్థమవుతుంది.",
+    "english": "Words are heard by everyone, but only a few understand the feelings behind them.",
+    "transliteration": "Maatalu andariki vinipistaayi… kaani vaati venuka unna bhaavam kondarike arthamavuthundi.",
+    "mood": "subtle",
+    "tags": [
+      "indirect",
+      "feelings",
+      "understanding"
+    ]
+  },
+  {
+    "id": "IND005",
+    "category": "indirect-quotes",
+    "telugu": "కాలం సమాధానం చెప్పినప్పుడు, మనం మౌనంగా ఉండటం కూడా ఒక గెలుపే.",
+    "english": "When time gives the answer, remaining silent can itself be a victory.",
+    "transliteration": "Kaalam samaadhaanam cheppinappudu, manam mounanga undatam kooda oka gelupe.",
+    "mood": "calm",
+    "tags": [
+      "indirect",
+      "silence",
+      "time"
+    ]
   }
 ]

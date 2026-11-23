@@ -50,5 +50,31 @@
       "heart",
       "story"
     ]
+  },
+  {
+    "id": "MEM005",
+    "category": "memories",
+    "telugu": "కొన్ని జ్ఞాపకాలు మనల్ని వెనక్కి పిలవవు… కానీ మనసును మాత్రం అక్కడే నిలిపేస్తాయి.",
+    "english": "Some memories do not call us back, yet they keep the heart standing in the past.",
+    "transliteration": "Konni gnapakalu manalni venakki pilavavu… kaani manasunu maatram akkade nilipestayi.",
+    "mood": "nostalgic",
+    "tags": [
+      "memories",
+      "past",
+      "heart"
+    ]
+  },
+  {
+    "id": "MEM006",
+    "category": "memories",
+    "telugu": "మరిచిపోవడం అంటే జ్ఞాపకాన్ని చెరిపేయడం కాదు; అది గుర్తొచ్చినప్పుడు బాధపడకుండా ఉండటం నేర్చుకోవడం.",
+    "english": "Forgetting is not erasing a memory; it is learning not to hurt whenever it returns.",
+    "transliteration": "Marichipovadam ante gnapakanni cheripeyadam kaadu; adi gurt vachinappudu baadhapadakunda undatam nerchukovadam.",
+    "mood": "healing",
+    "tags": [
+      "healing",
+      "memories",
+      "acceptance"
+    ]
   }
 ]

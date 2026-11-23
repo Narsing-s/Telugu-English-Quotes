@@ -37,5 +37,31 @@
       "distance",
       "connection"
     ]
+  },
+  {
+    "id": "LOV004",
+    "category": "love",
+    "telugu": "ప్రేమలో గొప్పతనం ఖరీదైన బహుమతుల్లో కాదు… చిన్న విషయాల్లోనూ మనసును గుర్తుపెట్టుకోవడంలో ఉంటుంది.",
+    "english": "The beauty of love is not in expensive gifts, but in remembering the heart through little things.",
+    "transliteration": "Premalo goppatanam khareedaina bahumatullo kaadu… chinna vishayallono manasunu gurtupettukovadamlo untundi.",
+    "mood": "romantic",
+    "tags": [
+      "love",
+      "care",
+      "little-things"
+    ]
+  },
+  {
+    "id": "LOV005",
+    "category": "love",
+    "telugu": "నిజమైన ప్రేమ మనల్ని మార్చమని బలవంతం చేయదు; మనల్ని అర్థం చేసుకుంటూ ఎదగడానికి తోడుంటుంది.",
+    "english": "True love does not force us to change; it supports us as we grow while feeling understood.",
+    "transliteration": "Nijamaina prema manalni maarchamani balavantham cheyadu; manalni artham chesukuntu edagadaniki thoduntundi.",
+    "mood": "hopeful",
+    "tags": [
+      "love",
+      "understanding",
+      "growth"
+    ]
   }
 ]

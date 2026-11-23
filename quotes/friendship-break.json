@@ -6,7 +6,12 @@
     "english": "Seven years of friendship did not end in a single day, but one conversation made me question all those years. We once talked for hours without needing a reason; now we seem to need a reason just to speak. I do not know whether time changed us or people changed, but the name that was once part of my everyday life now lives mostly in my memories.",
     "transliteration": "Edella sneham okka rojulō mugisipōlēdu… kānī ā okka roju jarigina oka sambhāshana, ā ēdella anubandhānni kottagā ālōchin̄chēlā chēsindi. OkaPPudu kāraṇam lēkunḍānē gantala tarabaḍi māṭlāḍukunna manam, ippuḍu māṭlāḍukōvaḍāniki oka kāraṇam vēṭukkuntunnām. Kālam mārin̄dō, manuṣulu mārirō teliyadu… kānī okaPPuḍu nā rōjulō bhāgamainā nī pēru, ippuḍu nā jñāpakāllō mātramē migilipōyindi.",
     "mood": "heartbroken",
-    "tags": ["friendship-break", "memories", "distance", "long-quote"]
+    "tags": [
+      "friendship-break",
+      "memories",
+      "distance",
+      "long-quote"
+    ]
   },
   {
     "id": "FB002",
@@ -15,7 +20,12 @@
     "english": "The pain is not only that I lost you; it is that I never imagined our friendship would reach this distance. The days when we laughed at the smallest things, understood each other without explanations, and instinctively thought of one another first—were all those moments real? I ask myself that now. More than anger toward you, it is the truth that our once beautiful bond may never return that hurts.",
     "transliteration": "Ninnu kōlpōyānane bādha kanṭē, mana sneham inta dūram vastundani eppuḍū ūhin̄chalēdanē bādha ekkuva. Chinna viṣayālakē navvukunna rōjulu, cheppakunḍānē okari manasu marokaru ardham chēsukunna kṣaṇālu…",
     "mood": "sad",
-    "tags": ["friendship-break", "lost-bond", "nostalgia", "long-quote"]
+    "tags": [
+      "friendship-break",
+      "lost-bond",
+      "nostalgia",
+      "long-quote"
+    ]
   },
   {
     "id": "FB003",
@@ -24,7 +34,12 @@
     "english": "You were once the first call for my happiness and the final comfort in my sadness. Whatever happened, I wanted to share it with you. Even now, when something happens, I feel like telling you—but the silence that has grown between us makes me stop. It is painful enough to lose someone, but even harder to have so much to say and no longer know how to say it. I do not know whether our friendship ended, but our conversations stopped long ago.",
     "transliteration": "OkaPPuḍu nā santōṣāniki modaṭi phōn kāl nuvvē, nā bādha ku chivari ōdārpu kūḍā nuvvē. Ēm jariginā nītō pan̄chukōvālanipin̄chēdi…",
     "mood": "lonely",
-    "tags": ["friendship-break", "silence", "missing-you", "long-quote"]
+    "tags": [
+      "friendship-break",
+      "silence",
+      "missing-you",
+      "long-quote"
+    ]
   },
   {
     "id": "FB004",
@@ -33,7 +48,12 @@
     "english": "People say not every friendship is meant to last a lifetime. But accepting that someone who once felt so close can become a stranger is never easy. The dreams we shared, the secrets we trusted each other with, the midnight calls, and the days we made up after silly arguments still matter to me. They were genuinely beautiful parts of my life. Even if we cannot walk together anymore, I cannot erase the memories that journey gave me.",
     "transliteration": "Prati sneham jīvitāntam konasāgālanī lēdu ani andarū chebutāru. Kānī manasuku daggaraina vyakti oka rōju parāyivāḍilā māṟipōtāḍani angīkarin̄chaḍam anta sulabham kādu…",
     "mood": "reflective",
-    "tags": ["friendship-break", "acceptance", "memories", "long-quote"]
+    "tags": [
+      "friendship-break",
+      "acceptance",
+      "memories",
+      "long-quote"
+    ]
   },
   {
     "id": "FB005",
@@ -42,7 +62,12 @@
     "english": "I never needed much from you. It would have been okay if we did not talk every day like before or share every little thing. I only wished I would never have to wonder whether our friendship still mattered to you. It hurts to feel like someone remembered only when there was a need. Still, I do not want to blame you and diminish our past. The happiness you once brought into my life was real, and so is the distance between us now.",
     "transliteration": "Nāku nī daggara nun̄chi pedda gā ēmi avasaram lēdu. Appaṭilā rōjū māṭlāḍakapōyinā parlēdu…",
     "mood": "disappointed",
-    "tags": ["friendship-break", "expectations", "self-respect", "long-quote"]
+    "tags": [
+      "friendship-break",
+      "expectations",
+      "self-respect",
+      "long-quote"
+    ]
   },
   {
     "id": "FB006",
@@ -51,7 +76,12 @@
     "english": "Some people enter our lives and leave us with beautiful memories, then walk away and leave us alone with those memories. I am not trying to forget you, because people who truly mattered cannot simply be erased by force. But I must stop waiting for those same days to return every time a memory appears. I hope you find happiness on your path; I will learn to respect our past and keep moving forward on mine.",
     "transliteration": "Konthamandi mana jīvitamlōki vachchi manaku ennō manchi jñāpakālu istāru; ā tarvāta adē jñāpakālathō manalni onṭarigā vadili veḷtāru…",
     "mood": "healing",
-    "tags": ["friendship-break", "moving-on", "healing", "long-quote"]
+    "tags": [
+      "friendship-break",
+      "moving-on",
+      "healing",
+      "long-quote"
+    ]
   },
   {
     "id": "FB007",
@@ -60,7 +90,12 @@
     "english": "When you were busy, I understood. When you could not talk, I waited. I treated your problems as if they were mine, because that was friendship to me. But when I realised I was always the one reaching out, starting conversations, and trying to keep the bond alive, I understood something: friendship cannot survive on one person's effort alone. I did not step back because I wanted to lose you; I stepped back because I did not want to lose myself.",
     "transliteration": "OkaPPuḍu nuvvu bijīgā unnāvantē ardham chēsukunnānu, māṭlāḍalēkapōtē vēchi chūsānu…",
     "mood": "self-respect",
-    "tags": ["friendship-break", "one-sided", "self-respect", "long-quote"]
+    "tags": [
+      "friendship-break",
+      "one-sided",
+      "self-respect",
+      "long-quote"
+    ]
   },
   {
     "id": "FB008",
@@ -69,6 +104,38 @@
     "english": "Somewhere inside, a small hope remains that perhaps one day we will talk again and laugh about everything we once shared. But I cannot put my life on hold for that hope. Some bonds may never return, yet they leave a better person behind in us. Our friendship taught me how to laugh, how to trust, and now how to accept distance. If you ever remember me, please remember not only our final silence, but also those earlier days when we laughed wholeheartedly.",
     "transliteration": "Ēdō oka rōju maḷḷī māṭlāḍukuntāmēmō, pāta viṣayāllannī gurthu chēsukuni navvukuntāmēmō ane chinna āśa inka ekkaḍō undi…",
     "mood": "bittersweet",
-    "tags": ["friendship-break", "hope", "memories", "closure", "long-quote"]
+    "tags": [
+      "friendship-break",
+      "hope",
+      "memories",
+      "closure",
+      "long-quote"
+    ]
+  },
+  {
+    "id": "FRB009",
+    "category": "friendship-break",
+    "telugu": "ఒకప్పుడు రోజంతా మాట్లాడిన మనుషులు, చివరికి ఒక చిన్న పలకరింపుకి కూడా దూరమవుతారు.",
+    "english": "People who once spoke all day can eventually become distant even from a simple greeting.",
+    "transliteration": "Okappudu rojantaa maatladina manushulu, chivariki oka chinna palakarimpuki kooda dooramavuthaaru.",
+    "mood": "bittersweet",
+    "tags": [
+      "distance",
+      "friendship",
+      "memories"
+    ]
+  },
+  {
+    "id": "FRB010",
+    "category": "friendship-break",
+    "telugu": "స్నేహం ముగిసిందని ప్రతి జ్ఞాపకాన్ని ద్వేషించాల్సిన అవసరం లేదు; కొన్ని బంధాలు మనకు ఒక పాఠం నేర్పి వెళ్తాయి.",
+    "english": "A friendship ending does not mean every memory must be hated; some bonds leave after teaching us a lesson.",
+    "transliteration": "Sneham mugisindani prati gnapakanni dveshinchaalsina avasaram ledu; konni bandhaalu manaku oka paatham nerpi veltaayi.",
+    "mood": "accepting",
+    "tags": [
+      "acceptance",
+      "friendship-break",
+      "growth"
+    ]
   }
 ]

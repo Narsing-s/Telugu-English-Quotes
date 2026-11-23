@@ -50,5 +50,31 @@
       "support",
       "care"
     ]
+  },
+  {
+    "id": "FRI005",
+    "category": "friendship",
+    "telugu": "నిజమైన స్నేహం ప్రతిరోజూ మాట్లాడటంలో కాదు… మాట్లాడకపోయినా మనసులో ఒకరికి ఒకరు చోటుండటంలో ఉంటుంది.",
+    "english": "True friendship is not about talking every day; it is about keeping a place for each other even in silence.",
+    "transliteration": "Nijamaina sneham prathiroju maatladatamlo kaadu… maatladakapoyina manasulo okariki okaru chotu undatamlo untundi.",
+    "mood": "warm",
+    "tags": [
+      "friendship",
+      "trust",
+      "bond"
+    ]
+  },
+  {
+    "id": "FRI006",
+    "category": "friendship",
+    "telugu": "మన విజయానికి చప్పట్లు కొట్టేవాళ్లు చాలామంది ఉంటారు; మన ఓటమిలో చేయి పట్టేవాడే నిజమైన స్నేహితుడు.",
+    "english": "Many applaud our success; the one who holds our hand in failure is a true friend.",
+    "transliteration": "Mana vijayaniki chappatlu kottevaallu chaalamandi untaru; mana otamilo cheyi pattevaade nijamaina snehitudu.",
+    "mood": "heartfelt",
+    "tags": [
+      "friendship",
+      "support",
+      "loyalty"
+    ]
   }
 ]

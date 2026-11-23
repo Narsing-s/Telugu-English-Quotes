@@ -37,5 +37,31 @@
       "respect",
       "confidence"
     ]
+  },
+  {
+    "id": "SEL004",
+    "category": "self-respect",
+    "telugu": "ఎవరినీ కోల్పోకూడదనే భయంతో నిన్ను నువ్వు కోల్పోకు.",
+    "english": "Do not lose yourself out of fear of losing someone else.",
+    "transliteration": "Evarini kolpokoodadane bhayanto ninnu nuvvu kolpoku.",
+    "mood": "empowering",
+    "tags": [
+      "self-respect",
+      "boundaries",
+      "worth"
+    ]
+  },
+  {
+    "id": "SEL005",
+    "category": "self-respect",
+    "telugu": "గౌరవం అడిగి పొందేది కాదు; మన నిర్ణయాల్లోనూ ప్రవర్తనలోనూ చూపించేది.",
+    "english": "Respect is not something to beg for; it is reflected in our choices and actions.",
+    "transliteration": "Gauravam adigi pondedi kaadu; mana nirnayaallono pravarthanalono choopinchedi.",
+    "mood": "confident",
+    "tags": [
+      "respect",
+      "dignity",
+      "boundaries"
+    ]
   }
 ]

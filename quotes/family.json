@@ -37,5 +37,31 @@
       "home",
       "comfort"
     ]
+  },
+  {
+    "id": "FAM004",
+    "category": "family",
+    "telugu": "మన విజయాన్ని మనకంటే ఎక్కువగా సంబరపడేవాళ్లు ఇంట్లో ఉంటారు; అదే కుటుంబం ఇచ్చే ప్రేమ.",
+    "english": "At home are people who celebrate our success even more than we do; that is family love.",
+    "transliteration": "Mana vijayaanni manakante ekkuvaga sambara padevaallu intlo untaaru; ade kutumbam iche prema.",
+    "mood": "grateful",
+    "tags": [
+      "family",
+      "love",
+      "support"
+    ]
+  },
+  {
+    "id": "FAM005",
+    "category": "family",
+    "telugu": "ఎన్ని దూరాలు వెళ్లినా మనసుకు విశ్రాంతి ఇచ్చే చోటు కుటుంబం దగ్గరే ఉంటుంది.",
+    "english": "No matter how far we travel, the place where the heart rests is with family.",
+    "transliteration": "Enni dooraalu vellina manasuku vishraanti iche chotu kutumbam daggare untundi.",
+    "mood": "warm",
+    "tags": [
+      "family",
+      "home",
+      "belonging"
+    ]
   }
 ]

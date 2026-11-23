@@ -37,5 +37,31 @@
       "silence",
       "growth"
     ]
+  },
+  {
+    "id": "LON004",
+    "category": "loneliness",
+    "telugu": "చుట్టూ చాలామంది ఉన్నా మనసులోని మాట వినేవారు లేకపోతే ఒంటరితనం అనిపిస్తుంది.",
+    "english": "Loneliness can remain even in a crowd when no one listens to what is in our heart.",
+    "transliteration": "Chutto chaalamandi unna manasuloni maata vinevaaru lekapothe ontarithanam anipistundi.",
+    "mood": "melancholic",
+    "tags": [
+      "loneliness",
+      "understanding",
+      "emotions"
+    ]
+  },
+  {
+    "id": "LON005",
+    "category": "loneliness",
+    "telugu": "ఒంటరిగా ఉన్న సమయం శూన్యం కాదు; మనల్ని మనం అర్థం చేసుకునే అవకాశం కూడా.",
+    "english": "Time spent alone is not empty; it can be a chance to understand ourselves.",
+    "transliteration": "Ontariga unna samayam shoonyam kaadu; manalni manam artham chesukune avakaasham kooda.",
+    "mood": "reflective",
+    "tags": [
+      "solitude",
+      "self-growth",
+      "peace"
+    ]
   }
 ]

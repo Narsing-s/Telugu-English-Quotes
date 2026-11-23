@@ -37,5 +37,31 @@
       "resilience",
       "hope"
     ]
+  },
+  {
+    "id": "MOT004",
+    "category": "motivation",
+    "telugu": "ఈరోజు వేసే చిన్న అడుగు కూడా రేపటి పెద్ద మార్పుకు ఆరంభం కావచ్చు.",
+    "english": "A small step taken today can become the beginning of a big change tomorrow.",
+    "transliteration": "Eeroju vese chinna adugu kooda repati pedda maarpuku aarambham kaavachu.",
+    "mood": "motivational",
+    "tags": [
+      "motivation",
+      "action",
+      "progress"
+    ]
+  },
+  {
+    "id": "MOT005",
+    "category": "motivation",
+    "telugu": "ఫలితం ఆలస్యమైనా ప్రయత్నాన్ని ఆపకు; నీ క్రమశిక్షణే ఒకరోజు నీ సమాధానమవుతుంది.",
+    "english": "Even if results are delayed, do not stop trying; your discipline will become your answer one day.",
+    "transliteration": "Phalitham aalasyamaina prayatnanni aapaku; nee kramashikshane okaroju nee samaadhaanamavuthundi.",
+    "mood": "determined",
+    "tags": [
+      "discipline",
+      "effort",
+      "success"
+    ]
   }
 ]

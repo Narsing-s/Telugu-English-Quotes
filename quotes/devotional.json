@@ -37,5 +37,31 @@
       "courage",
       "devotion"
     ]
+  },
+  {
+    "id": "DEV004",
+    "category": "devotional",
+    "telugu": "ప్రార్థనలో అడిగేది పరిష్కారం మాత్రమే కాదు… ఎదుర్కొనే ధైర్యం కూడా కావాలి.",
+    "english": "Prayer asks not only for a solution, but also for the courage to face what comes.",
+    "transliteration": "Praarthanalo adigedi parishkaaram maatrame kaadu… edurukone dhairyam kooda kaavaali.",
+    "mood": "faithful",
+    "tags": [
+      "prayer",
+      "courage",
+      "faith"
+    ]
+  },
+  {
+    "id": "DEV005",
+    "category": "devotional",
+    "telugu": "దైవంపై నమ్మకం ఉన్నప్పుడు దారి కష్టమైనా మనసులో ఆశ వెలుగుతూనే ఉంటుంది.",
+    "english": "With faith in the divine, hope continues to shine in the heart even when the path is difficult.",
+    "transliteration": "Daivampai nammakam unnappudu daari kashtamaina manasulo aasha velugutoone untundi.",
+    "mood": "peaceful",
+    "tags": [
+      "devotion",
+      "hope",
+      "faith"
+    ]
   }
 ]

@@ -37,5 +37,31 @@
       "life",
       "growth"
     ]
+  },
+  {
+    "id": "LIF004",
+    "category": "life",
+    "telugu": "జీవితం మనం అనుకున్నట్టే సాగకపోవచ్చు; అయినా ప్రతి మలుపు మనకు ఏదో ఒకటి నేర్పుతుంది.",
+    "english": "Life may not unfold as we planned, yet every turn teaches us something.",
+    "transliteration": "Jeevitham manam anukunnatte saagakapovachu; ayina prati malupu manaku edo okati nerputundi.",
+    "mood": "reflective",
+    "tags": [
+      "life",
+      "lessons",
+      "journey"
+    ]
+  },
+  {
+    "id": "LIF005",
+    "category": "life",
+    "telugu": "నెమ్మదిగా సాగుతున్నావని ఆగిపోయావని కాదు; నీ ప్రయాణానికి నీదైన వేగం ఉంటుంది.",
+    "english": "Moving slowly does not mean you have stopped; your journey has its own pace.",
+    "transliteration": "Nemmadiga saaguthunnaavani aagipoyaavani kaadu; nee prayaananiki needaina vegam untundi.",
+    "mood": "encouraging",
+    "tags": [
+      "life",
+      "patience",
+      "progress"
+    ]
   }
 ]

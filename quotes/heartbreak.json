@@ -37,5 +37,31 @@
       "smile",
       "emotions"
     ]
+  },
+  {
+    "id": "HEA004",
+    "category": "heartbreak",
+    "telugu": "బాధ పెట్టింది దూరం కాదు… దగ్గరగా ఉంటానన్న మాటను నమ్మిన మనసే.",
+    "english": "It was not the distance that hurt, but the heart that trusted the promise of staying close.",
+    "transliteration": "Baadha pettindi dooram kaadu… daggaraga untaannanna maatanu nammina manase.",
+    "mood": "sad",
+    "tags": [
+      "heartbreak",
+      "trust",
+      "distance"
+    ]
+  },
+  {
+    "id": "HEA005",
+    "category": "heartbreak",
+    "telugu": "కొన్ని కన్నీళ్లు ఎదుటివారికి కనిపించవు; కానీ మనలోని బలాన్ని నెమ్మదిగా పెంచుతాయి.",
+    "english": "Some tears are unseen by others, yet they slowly build strength within us.",
+    "transliteration": "Konni kannillu edutivaariki kanipinchavu; kaani manaloni balaanni nemmadiga penchutaayi.",
+    "mood": "healing",
+    "tags": [
+      "tears",
+      "strength",
+      "healing"
+    ]
   }
 ]

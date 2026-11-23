@@ -37,5 +37,31 @@
       "attitude",
       "journey"
     ]
+  },
+  {
+    "id": "ATT004",
+    "category": "attitude",
+    "telugu": "నా విలువను అందరూ గుర్తించాల్సిన అవసరం లేదు; నాకు తెలిసి ఉంటే చాలు.",
+    "english": "Not everyone needs to recognize my worth; it is enough that I know it.",
+    "transliteration": "Naa viluvanu andaru gurthinchaalsina avasaram ledu; naaku telisi unte chaalu.",
+    "mood": "confident",
+    "tags": [
+      "attitude",
+      "confidence",
+      "worth"
+    ]
+  },
+  {
+    "id": "ATT005",
+    "category": "attitude",
+    "telugu": "నిశ్శబ్దంగా ఉండటం బలహీనత కాదు; ప్రతి విషయానికి సమాధానం చెప్పాల్సిన అవసరం లేదని తెలిసిన పరిపక్వత.",
+    "english": "Silence is not weakness; it is the maturity of knowing that not everything needs an answer.",
+    "transliteration": "Nishshabdanga undatam balheenatha kaadu; prati vishayaaniki samaadhaanam cheppaalsina avasaram ledani telisina paripakvatha.",
+    "mood": "bold",
+    "tags": [
+      "silence",
+      "maturity",
+      "attitude"
+    ]
   }
 ]
