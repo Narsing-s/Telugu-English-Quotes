@@ -14,11 +14,12 @@ on:
     types: [completed]
 permissions:
   contents: read
+  actions: read
   pages: write
   id-token: write
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 jobs:
   deploy:
     if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
@@ -27,14 +28,24 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout latest website and quote data
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event_name == 'workflow_run' && github.event.workflow_run.head_branch || github.ref }}
       - name: Configure Pages
         uses: actions/configure-pages@v5
-      - name: Upload website
+      - name: Verify website files
+        run: |
+          test -f index.html
+          test -f styles.css
+          test -f app.js
+          test -d quotes
+          echo "Website source and quote data are present."
+      - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: .
+          name: github-pages
       - name: Deploy website
         id: deployment
         uses: actions/deploy-pages@v4
