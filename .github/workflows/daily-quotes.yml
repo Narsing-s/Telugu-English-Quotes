@@ -3,6 +3,10 @@ on:
   schedule:
     - cron: "30 3 * * *"
   workflow_dispatch:
+  push:
+    paths:
+      - "scripts/generate-daily-quotes.mjs"
+      - ".github/workflows/daily-quotes.yml"
 permissions:
   contents: write
 concurrency:
@@ -18,9 +22,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Generate original category quotes
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      - name: Generate quotes for every category (offline fallback)
         run: node scripts/generate-daily-quotes.mjs
       - name: Commit and push new quotes
         run: |
@@ -31,5 +33,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add quotes/
-          git commit -m "content: add daily Telugu quotes"
+          git commit -m "content: add Telugu quotes across all categories"
           git push
