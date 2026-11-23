@@ -1,85 +1,56 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 
-const categories = ["memories","friendship","friendship-break","love","heartbreak","life","motivation","devotional","attitude","self-respect","family","loneliness","indirect-quotes"];
-const fallback = {
-  memories: [
-    ["కొన్ని జ్ఞాపకాలు మనల్ని వెనక్కి పిలవవు… కానీ మనసును మాత్రం అక్కడే నిలిపేస్తాయి.","Some memories do not call us back, yet they keep the heart standing in the past.","Konni gnapakalu manalni venakki pilavavu… kaani manasunu maatram akkade nilipestayi.","nostalgic",["memories","past","heart"]],
-    ["మరిచిపోవడం అంటే జ్ఞాపకాన్ని చెరిపేయడం కాదు; అది గుర్తొచ్చినప్పుడు బాధపడకుండా ఉండటం నేర్చుకోవడం.","Forgetting is not erasing a memory; it is learning not to hurt whenever it returns.","Marichipovadam ante gnapakanni cheripeyadam kaadu; adi gurt vachinappudu baadhapadakunda undatam nerchukovadam.","healing",["healing","memories","acceptance"]]
-  ],
-  friendship: [
-    ["నిజమైన స్నేహం ప్రతిరోజూ మాట్లాడటంలో కాదు… మాట్లాడకపోయినా మనసులో ఒకరికి ఒకరు చోటుండటంలో ఉంటుంది.","True friendship is not about talking every day; it is about keeping a place for each other even in silence.","Nijamaina sneham prathiroju maatladatamlo kaadu… maatladakapoyina manasulo okariki okaru chotu undatamlo untundi.","warm",["friendship","trust","bond"]],
-    ["మన విజయానికి చప్పట్లు కొట్టేవాళ్లు చాలామంది ఉంటారు; మన ఓటమిలో చేయి పట్టేవాడే నిజమైన స్నేహితుడు.","Many applaud our success; the one who holds our hand in failure is a true friend.","Mana vijayaniki chappatlu kottevaallu chaalamandi untaru; mana otamilo cheyi pattevaade nijamaina snehitudu.","heartfelt",["friendship","support","loyalty"]]
-  ],
-  "friendship-break": [
-    ["ఒకప్పుడు రోజంతా మాట్లాడిన మనుషులు, చివరికి ఒక చిన్న పలకరింపుకి కూడా దూరమవుతారు.","People who once spoke all day can eventually become distant even from a simple greeting.","Okappudu rojantaa maatladina manushulu, chivariki oka chinna palakarimpuki kooda dooramavuthaaru.","bittersweet",["distance","friendship","memories"]],
-    ["స్నేహం ముగిసిందని ప్రతి జ్ఞాపకాన్ని ద్వేషించాల్సిన అవసరం లేదు; కొన్ని బంధాలు మనకు ఒక పాఠం నేర్పి వెళ్తాయి.","A friendship ending does not mean every memory must be hated; some bonds leave after teaching us a lesson.","Sneham mugisindani prati gnapakanni dveshinchaalsina avasaram ledu; konni bandhaalu manaku oka paatham nerpi veltaayi.","accepting",["acceptance","friendship-break","growth"]]
-  ],
-  love: [
-    ["ప్రేమలో గొప్పతనం ఖరీదైన బహుమతుల్లో కాదు… చిన్న విషయాల్లోనూ మనసును గుర్తుపెట్టుకోవడంలో ఉంటుంది.","The beauty of love is not in expensive gifts, but in remembering the heart through little things.","Premalo goppatanam khareedaina bahumatullo kaadu… chinna vishayallono manasunu gurtupettukovadamlo untundi.","romantic",["love","care","little-things"]],
-    ["నిజమైన ప్రేమ మనల్ని మార్చమని బలవంతం చేయదు; మనల్ని అర్థం చేసుకుంటూ ఎదగడానికి తోడుంటుంది.","True love does not force us to change; it supports us as we grow while feeling understood.","Nijamaina prema manalni maarchamani balavantham cheyadu; manalni artham chesukuntu edagadaniki thoduntundi.","hopeful",["love","understanding","growth"]]
-  ],
-  heartbreak: [
-    ["బాధ పెట్టింది దూరం కాదు… దగ్గరగా ఉంటానన్న మాటను నమ్మిన మనసే.","It was not the distance that hurt, but the heart that trusted the promise of staying close.","Baadha pettindi dooram kaadu… daggaraga untaannanna maatanu nammina manase.","sad",["heartbreak","trust","distance"]],
-    ["కొన్ని కన్నీళ్లు ఎదుటివారికి కనిపించవు; కానీ మనలోని బలాన్ని నెమ్మదిగా పెంచుతాయి.","Some tears are unseen by others, yet they slowly build strength within us.","Konni kannillu edutivaariki kanipinchavu; kaani manaloni balaanni nemmadiga penchutaayi.","healing",["tears","strength","healing"]]
-  ],
-  life: [
-    ["జీవితం మనం అనుకున్నట్టే సాగకపోవచ్చు; అయినా ప్రతి మలుపు మనకు ఏదో ఒకటి నేర్పుతుంది.","Life may not unfold as we planned, yet every turn teaches us something.","Jeevitham manam anukunnatte saagakapovachu; ayina prati malupu manaku edo okati nerputundi.","reflective",["life","lessons","journey"]],
-    ["నెమ్మదిగా సాగుతున్నావని ఆగిపోయావని కాదు; నీ ప్రయాణానికి నీదైన వేగం ఉంటుంది.","Moving slowly does not mean you have stopped; your journey has its own pace.","Nemmadiga saaguthunnaavani aagipoyaavani kaadu; nee prayaananiki needaina vegam untundi.","encouraging",["life","patience","progress"]]
-  ],
-  motivation: [
-    ["ఈరోజు వేసే చిన్న అడుగు కూడా రేపటి పెద్ద మార్పుకు ఆరంభం కావచ్చు.","A small step taken today can become the beginning of a big change tomorrow.","Eeroju vese chinna adugu kooda repati pedda maarpuku aarambham kaavachu.","motivational",["motivation","action","progress"]],
-    ["ఫలితం ఆలస్యమైనా ప్రయత్నాన్ని ఆపకు; నీ క్రమశిక్షణే ఒకరోజు నీ సమాధానమవుతుంది.","Even if results are delayed, do not stop trying; your discipline will become your answer one day.","Phalitham aalasyamaina prayatnanni aapaku; nee kramashikshane okaroju nee samaadhaanamavuthundi.","determined",["discipline","effort","success"]]
-  ],
-  devotional: [
-    ["ప్రార్థనలో అడిగేది పరిష్కారం మాత్రమే కాదు… ఎదుర్కొనే ధైర్యం కూడా కావాలి.","Prayer asks not only for a solution, but also for the courage to face what comes.","Praarthanalo adigedi parishkaaram maatrame kaadu… edurukone dhairyam kooda kaavaali.","faithful",["prayer","courage","faith"]],
-    ["దైవంపై నమ్మకం ఉన్నప్పుడు దారి కష్టమైనా మనసులో ఆశ వెలుగుతూనే ఉంటుంది.","With faith in the divine, hope continues to shine in the heart even when the path is difficult.","Daivampai nammakam unnappudu daari kashtamaina manasulo aasha velugutoone untundi.","peaceful",["devotion","hope","faith"]]
-  ],
-  attitude: [
-    ["నా విలువను అందరూ గుర్తించాల్సిన అవసరం లేదు; నాకు తెలిసి ఉంటే చాలు.","Not everyone needs to recognize my worth; it is enough that I know it.","Naa viluvanu andaru gurthinchaalsina avasaram ledu; naaku telisi unte chaalu.","confident",["attitude","confidence","worth"]],
-    ["నిశ్శబ్దంగా ఉండటం బలహీనత కాదు; ప్రతి విషయానికి సమాధానం చెప్పాల్సిన అవసరం లేదని తెలిసిన పరిపక్వత.","Silence is not weakness; it is the maturity of knowing that not everything needs an answer.","Nishshabdanga undatam balheenatha kaadu; prati vishayaaniki samaadhaanam cheppaalsina avasaram ledani telisina paripakvatha.","bold",["silence","maturity","attitude"]]
-  ],
-  "self-respect": [
-    ["ఎవరినీ కోల్పోకూడదనే భయంతో నిన్ను నువ్వు కోల్పోకు.","Do not lose yourself out of fear of losing someone else.","Evarini kolpokoodadane bhayanto ninnu nuvvu kolpoku.","empowering",["self-respect","boundaries","worth"]],
-    ["గౌరవం అడిగి పొందేది కాదు; మన నిర్ణయాల్లోనూ ప్రవర్తనలోనూ చూపించేది.","Respect is not something to beg for; it is reflected in our choices and actions.","Gauravam adigi pondedi kaadu; mana nirnayaallono pravarthanalono choopinchedi.","confident",["respect","dignity","boundaries"]]
-  ],
-  family: [
-    ["మన విజయాన్ని మనకంటే ఎక్కువగా సంబరపడేవాళ్లు ఇంట్లో ఉంటారు; అదే కుటుంబం ఇచ్చే ప్రేమ.","At home are people who celebrate our success even more than we do; that is family love.","Mana vijayaanni manakante ekkuvaga sambara padevaallu intlo untaaru; ade kutumbam iche prema.","grateful",["family","love","support"]],
-    ["ఎన్ని దూరాలు వెళ్లినా మనసుకు విశ్రాంతి ఇచ్చే చోటు కుటుంబం దగ్గరే ఉంటుంది.","No matter how far we travel, the place where the heart rests is with family.","Enni dooraalu vellina manasuku vishraanti iche chotu kutumbam daggare untundi.","warm",["family","home","belonging"]]
-  ],
-  loneliness: [
-    ["చుట్టూ చాలామంది ఉన్నా మనసులోని మాట వినేవారు లేకపోతే ఒంటరితనం అనిపిస్తుంది.","Loneliness can remain even in a crowd when no one listens to what is in our heart.","Chutto chaalamandi unna manasuloni maata vinevaaru lekapothe ontarithanam anipistundi.","melancholic",["loneliness","understanding","emotions"]],
-    ["ఒంటరిగా ఉన్న సమయం శూన్యం కాదు; మనల్ని మనం అర్థం చేసుకునే అవకాశం కూడా.","Time spent alone is not empty; it can be a chance to understand ourselves.","Ontariga unna samayam shoonyam kaadu; manalni manam artham chesukune avakaasham kooda.","reflective",["solitude","self-growth","peace"]]
-  ],
-  "indirect-quotes": [
-    ["మాటలు అందరికీ వినిపిస్తాయి… కానీ వాటి వెనుక ఉన్న భావం కొందరికే అర్థమవుతుంది.","Words are heard by everyone, but only a few understand the feelings behind them.","Maatalu andariki vinipistaayi… kaani vaati venuka unna bhaavam kondarike arthamavuthundi.","subtle",["indirect","feelings","understanding"]],
-    ["కాలం సమాధానం చెప్పినప్పుడు, మనం మౌనంగా ఉండటం కూడా ఒక గెలుపే.","When time gives the answer, remaining silent can itself be a victory.","Kaalam samaadhaanam cheppinappudu, manam mounanga undatam kooda oka gelupe.","calm",["indirect","silence","time"]]
-  ]
+const data = {
+memories:["MEM",["చిన్ననాటి జ్ఞాపకాలు|childhood memories","పాత రోజులు|old days","మధుర క్షణాలు|sweet moments","చెప్పని కథలు|untold stories","పాత లేఖలు|old letters","మరిచిన నవ్వులు|forgotten smiles","దూరమైన రోజులు|distant days","మనసులోని గుర్తులు|memories in the heart","కలిసి గడిపిన సమయం|time spent together","నిశ్శబ్ద క్షణాలు|silent moments"],["ఓ మధురమైన గుర్తును|a sweet reminder","జీవితానికి అర్థాన్ని|meaning to life","ఒక కొత్త పాఠాన్ని|a new lesson","మనసుకు ఓదార్పును|comfort to the heart","కాలం విలువను|the value of time","మనుషుల విలువను|the value of people","ఎదగడానికి ధైర్యాన్ని|courage to grow","గతాన్ని అంగీకరించడాన్ని|accepting the past","మరచిపోలేని అనుభూతిని|an unforgettable feeling","మనలోని నిజాన్ని|the truth within us"]],
+friendship:["FRI",["నిజమైన స్నేహం|true friendship","చిన్న పలకరింపు|a simple greeting","కష్టకాలంలో తోడు|support in hard times","పంచుకున్న నవ్వులు|shared laughter","నమ్మకమైన మిత్రుడు|a trusted friend","దూరంలో ఉన్న స్నేహితుడు|a distant friend","మనస్ఫూర్తి మాటలు|sincere words","చిన్న సహాయం|a small act of help","పాత స్నేహ బంధం|an old friendship","నిశ్శబ్ద అర్థం చేసుకోవడం|silent understanding"],["నమ్మకానికి విలువను|the value of trust","తోడుగా ఉండే బలాన్ని|the strength of support","మనసుకు ధైర్యాన్ని|courage to the heart","సంతోషాన్ని పంచుకోవడాన్ని|sharing happiness","నిజాయితీ గొప్పతనాన్ని|the beauty of honesty","మాటలకంటే పనుల విలువను|actions over words","క్షమించే మనసును|a forgiving heart","స్నేహానికి అర్థాన్ని|the meaning of friendship","గౌరవాన్ని|respect","జీవితాంతం నిలిచే గుర్తును|a lasting memory"]],
+"friendship-break":["FRB",["ముగిసిన స్నేహం|an ended friendship","మారిపోయిన మాటలు|changed words","దూరమైన మిత్రుడు|a distant friend","చెదిరిన నమ్మకం|broken trust","మౌనంగా మారిన బంధం|a silent bond","పాత పరిచయం|an old connection","చెప్పని బాధ|unspoken hurt","విడిపోయిన దారులు|separate paths","మారిన ప్రాధాన్యతలు|changed priorities","మిగిలిన జ్ఞాపకాలు|memories left behind"],["విడిచిపెట్టే ధైర్యాన్ని|the courage to let go","మనశ్శాంతిని కాపాడుకోవడాన్ని|protecting peace of mind","గతం నుంచి నేర్చుకోవడాన్ని|learning from the past","మన విలువను గుర్తించడాన్ని|recognizing our worth","హద్దులు పెట్టుకోవడాన్ని|setting boundaries","ఒంటరిగా ఎదగడాన్ని|growing independently","క్షమించి ముందుకు సాగడాన్ని|forgiving and moving on","నిజమైన బంధాన్ని గుర్తించడాన్ని|recognizing genuine bonds","కొత్త ఆరంభాన్ని|a fresh beginning","మనసును బలపరచడాన్ని|strengthening the heart"]],
+love:["LOV",["నిజమైన ప్రేమ|true love","చిన్న శ్రద్ధ|small acts of care","ప్రియమైన వ్యక్తి|a loved one","కలిసి గడిపిన క్షణం|a moment together","ఆప్యాయమైన మాట|an affectionate word","నమ్మకమైన తోడు|a dependable partner","మనస్ఫూర్తి నవ్వు|a heartfelt smile","దూరంలో ఉన్న ప్రేమ|love across distance","చిన్న బహుమతి|a small gift","గౌరవంతో కూడిన బంధం|a respectful bond"],["ప్రేమలో ఓర్పును|patience in love","చిన్న విషయాల విలువను|the value of little things","గౌరవం ప్రాముఖ్యతను|the importance of respect","నమ్మకానికి బలాన్ని|the strength of trust","మనసుకు ప్రశాంతతను|peace to the heart","ఒకరినొకరు అర్థం చేసుకోవడాన్ని|understanding one another","పంచుకోవడంలోని ఆనందాన్ని|the joy of sharing","నిజాయితీ అందాన్ని|the beauty of honesty","కలిసి ఎదగడాన్ని|growing together","ప్రేమకు అర్థాన్ని|the meaning of love"]],
+heartbreak:["HEA",["విరిగిన హృదయం|a broken heart","చెప్పని కన్నీళ్లు|unspoken tears","దూరమైన ప్రేమ|love that drifted away","మిగిలిన బాధ|pain that remains","నెరవేరని ఆశ|an unfulfilled hope","మారిన బంధం|a changed relationship","ఒంటరి రాత్రి|a lonely night","చివరి సందేశం|the last message","నిశ్శబ్ద వీడ్కోలు|a silent goodbye","దాచుకున్న భావాలు|hidden feelings"],["మళ్లీ నిలబడే శక్తిని|the strength to stand again","మనసును నయం చేసుకోవడాన్ని|healing the heart","మన విలువను గుర్తించడాన్ని|recognizing our worth","విడిచిపెట్టే ధైర్యాన్ని|the courage to let go","ఓర్పుతో ముందుకు సాగడాన్ని|moving forward patiently","కొత్త ఆశను|new hope","నిశ్శబ్దంలో బలాన్ని|strength in silence","గతాన్ని అంగీకరించడాన్ని|accepting the past","మనశ్శాంతిని ఎంచుకోవడాన్ని|choosing peace","మనలోని ధైర్యాన్ని|inner courage"]],
+life:["LIF",["జీవిత ప్రయాణం|the journey of life","ప్రతి మలుపు|every turn","చిన్న అనుభవం|a small experience","కష్టమైన రోజు|a difficult day","కొత్త ఆరంభం|a new beginning","అనుకోని మార్పు|an unexpected change","నెమ్మదైన అడుగు|a slow step","మన నిర్ణయం|our decision","ఓటమి తర్వాతి రోజు|the day after failure","సాధారణ క్షణం|an ordinary moment"],["ఓర్పు విలువను|the value of patience","మార్పును అంగీకరించడాన్ని|accepting change","మళ్లీ ప్రయత్నించడాన్ని|trying again","మనల్ని మనం తెలుసుకోవడాన్ని|knowing ourselves","ప్రతి రోజును గౌరవించడాన్ని|valuing each day","ఆశను నిలుపుకోవడాన్ని|keeping hope alive","చిన్న విజయాన్ని గుర్తించడాన్ని|noticing small victories","ముందుకు సాగడాన్ని|moving forward","అనుభవం ఇచ్చే జ్ఞానాన్ని|wisdom from experience","మన బలాన్ని గుర్తించడాన్ని|recognizing our strength"]],
+motivation:["MOT",["చిన్న ప్రయత్నం|a small effort","ప్రతి ఉదయం|every morning","క్రమశిక్షణ|discipline","పట్టుదల|determination","ఒక చిన్న అడుగు|one small step","కలల కోసం చేసే పని|work toward a dream","విఫలమైన ప్రయత్నం|a failed attempt","నిరంతర సాధన|consistent practice","మన లక్ష్యం|our goal","ఆత్మవిశ్వాసం|self-belief"],["పెద్ద విజయానికి దారిని|the path to great success","మన సామర్థ్యాన్ని|our potential","విజయానికి పునాదిని|the foundation of success","ఓటమిని దాటే శక్తిని|strength to overcome failure","ముందుకు వెళ్లే ధైర్యాన్ని|courage to move ahead","కలలను నిజం చేసే మార్గాన్ని|the way to make dreams real","పట్టుదల గొప్పతనాన్ని|the power of persistence","సమయపాలన విలువను|the value of time","మనలోని బలాన్ని|the strength within us","ప్రయత్నం విలువను|the value of effort"]],
+devotional:["DEV",["దైవంపై నమ్మకం|faith in God","ప్రతి ప్రార్థన|every prayer","భక్తితో చేసే సేవ|service with devotion","దేవుని ఆశీర్వాదం|God's blessings","నిశ్శబ్ద ధ్యానం|silent meditation","ఆలయ దర్శనం|a temple visit","మనస్ఫూర్తి పిలుపు|a heartfelt prayer","ధర్మ మార్గం|the path of dharma","దైవ స్మరణ|remembrance of the divine","కృతజ్ఞత భావం|a grateful heart"],["మనసుకు ప్రశాంతతను|peace to the heart","కష్టాలను ఎదుర్కొనే ధైర్యాన్ని|courage to face hardship","ఆశను నిలిపే శక్తిని|strength to keep hope","వినయాన్ని|humility","కృతజ్ఞతను|gratitude","సహనాన్ని|patience","మంచి మార్గాన్ని|the right path","సేవాభావాన్ని|the spirit of service","అంతరంగ బలాన్ని|inner strength","ప్రేమను పంచడాన్ని|sharing love"]],
+attitude:["ATT",["ఆత్మవిశ్వాసం|self-confidence","మన మౌనం|our silence","మన నిర్ణయం|our decision","స్పష్టమైన ఆలోచన|clear thinking","స్వతంత్రంగా నిలబడటం|standing independently","నిజాయితీ|honesty","మన సమయం|our time","మన లక్ష్యం|our goal","ధైర్యమైన అడుగు|a bold step","మన వ్యక్తిత్వం|our character"],["మన విలువను చూపించడాన్ని|showing our worth","అవసరమైనప్పుడు మాట్లాడడాన్ని|speaking when it matters","హద్దులను కాపాడుకోవడాన్ని|protecting boundaries","గౌరవాన్ని సంపాదించడాన్ని|earning respect","మన దారిలో నడవడాన్ని|walking our own path","అనవసరమైన మాటలను వదిలేయడాన్ని|letting go of needless words","నిలకడను|consistency","స్పష్టతను|clarity","ధైర్యాన్ని|courage","స్వతంత్రతను|independence"]],
+"self-respect":["SEL",["ఆత్మగౌరవం|self-respect","మన హద్దులు|our boundaries","మన విలువ|our worth","మన నిర్ణయాలు|our choices","మనశ్శాంతి|peace of mind","స్వతంత్రత|independence","మన సమయం|our time","నిజాయితీ|honesty","మన అవసరాలు|our needs","మన గౌరవం|our dignity"],["మనల్ని మనం గౌరవించడాన్ని|respecting ourselves","అవసరమైన చోట వద్దనడాన్ని|saying no when needed","మన విలువను కాపాడుకోవడాన్ని|protecting our worth","ఆరోగ్యకరమైన హద్దులను|healthy boundaries","మనశ్శాంతిని ఎంచుకోవడాన్ని|choosing peace","మన కోసం నిలబడడాన్ని|standing up for ourselves","గౌరవంగా జీవించడాన్ని|living with dignity","స్వతంత్రంగా నిర్ణయించడాన్ని|making independent choices","మనసుకు నిజాయితీగా ఉండడాన్ని|being honest with ourselves","ధైర్యంగా ముందుకు సాగడాన్ని|moving forward confidently"]],
+family:["FAM",["కుటుంబ ప్రేమ|family love","తల్లిదండ్రుల ఆశీర్వాదం|parents' blessings","ఇంటి చిరునవ్వులు|smiles at home","కలిసి భోజనం|a meal together","కుటుంబ సభ్యుల తోడు|support from family","చిన్న త్యాగాలు|small sacrifices","ఇంటి జ్ఞాపకాలు|memories of home","అక్కచెల్లెళ్ల అనుబంధం|the bond between sisters","అన్నదమ్ముల ప్రేమ|brotherly love","కుటుంబ ఐక్యత|family unity"],["నిస్వార్థ ప్రేమను|selfless love","కృతజ్ఞతను|gratitude","కలిసి ఉండే బలాన్ని|the strength of togetherness","త్యాగం విలువను|the value of sacrifice","మన మూలాలను గుర్తించడాన్ని|remembering our roots","ఆప్యాయతను|affection","ఒకరికొకరు తోడుగా ఉండడాన్ని|supporting one another","గౌరవాన్ని|respect","పంచుకోవడంలోని ఆనందాన్ని|the joy of sharing","బంధాల గొప్పతనాన్ని|the beauty of family bonds"]],
+loneliness:["LON",["ఒంటరి సాయంత్రం|a lonely evening","నిశ్శబ్ద గది|a silent room","చెప్పని భావాలు|unspoken feelings","ఎదురుచూపు|waiting","ఖాళీ సమయం|empty time","మనసులోని మాట|the words in our heart","దూరమైన మనుషులు|people who drifted away","ఒంటరి ప్రయాణం|a journey alone","నిశ్శబ్ద రాత్రి|a quiet night","మనతో మనం గడిపే క్షణం|a moment with ourselves"],["మనల్ని మనం అర్థం చేసుకోవడాన్ని|understanding ourselves","అంతరంగ బలాన్ని|inner strength","మనసుకు ఓదార్పును|comfort to the heart","స్వీయ ప్రేమను|self-love","ఓర్పును|patience","మన భావాలను అంగీకరించడాన్ని|accepting our feelings","కొత్త బలాన్ని|new strength","ప్రశాంతతను వెతకడాన్ని|finding peace","మనసును వినడాన్ని|listening to ourselves","ఆశను నిలుపుకోవడాన్ని|keeping hope alive"]],
+"indirect-quotes":["IND",["కొన్ని మాటలు|some words","ఒక చిన్న మౌనం|a brief silence","కాలం ఇచ్చే సమాధానం|time's answer","మారిన ప్రవర్తన|changed behavior","చెప్పని నిజం|an unspoken truth","దూరంగా ఉన్న చూపు|a distant glance","చిన్న సంకేతం|a subtle sign","నిశ్శబ్ద సమాధానం|a silent reply","మారిన ప్రాధాన్యత|a changed priority","ఒక చిన్న గుర్తు|a small sign"],["చాలా విషయాలను బయటపెడుతుంది|reveals many things","మనసులోని నిజాన్ని చూపిస్తుంది|shows the truth in the heart","సమాధానం చెప్పగలదు|can speak for itself","మనుషుల నిజ స్వభావాన్ని తెలియజేస్తుంది|reveals people's true nature","మాటలకంటే ఎక్కువ చెబుతుంది|says more than words","ఆలోచింపజేస్తుంది|makes us think","సమయంతో అర్థమవుతుంది|becomes clear with time","మనకు పాఠం నేర్పుతుంది|teaches us a lesson","నిజాన్ని బయటకు తెస్తుంది|brings the truth out","నిశ్శబ్దంగా గుర్తు చేస్తుంది|quietly reminds us"]]
 };
 
-const normalize = value => value.replace(/[\s\p{P}\p{S}]/gu, "").toLowerCase();
-const prefix = category => ({memories:"MEM",friendship:"FRI","friendship-break":"FRB",love:"LOV",heartbreak:"HEA",life:"LIF",motivation:"MOT",devotional:"DEV",attitude:"ATT","self-respect":"SEL",family:"FAM",loneliness:"LON","indirect-quotes":"IND"}[category]);
-
-let totalAdded = 0;
-for (const category of categories) {
-  const file = path.join("quotes", category + ".json");
-  const existing = JSON.parse(await fs.readFile(file, "utf8"));
-  const known = new Set(existing.map(q => normalize(q.telugu)));
-  let added = 0;
-  for (const [telugu, english, transliteration, mood, tags] of fallback[category]) {
-    if (known.has(normalize(telugu))) continue;
-    const next = Math.max(0, ...existing.map(q => Number(q.id?.match(/(\d+)$/)?.[1] || 0))) + 1;
-    const id = prefix(category) + String(next).padStart(3, "0");
-    existing.push({ id, category, telugu, english, transliteration, mood, tags });
-    known.add(normalize(telugu));
-    added++;
-  }
-  if (added) {
-    await fs.writeFile(file, JSON.stringify(existing, null, 2) + "\n");
-    console.log(`Added ${added} quotes to ${file}`);
-    totalAdded += added;
-  } else {
-    console.log(`No new fallback quotes for ${category}; already present.`);
-  }
+const templates = [
+ (t,l) => ["కొన్ని " + t[0] + " మనకు " + l[0] + " నేర్పిస్తాయి.", "Some " + t[1] + " teach us " + l[1] + "."],
+ (t,l) => ["కాలం మారినా, " + t[0] + " ఇచ్చిన " + l[0] + " మనలో నిలిచిపోతుంది.", "Even as time changes, " + l[1] + " from " + t[1] + " stays with us."],
+ (t,l) => ["ప్రతి " + t[0] + " వెనుక " + l[0] + " దాగి ఉంటుంది.", "Behind every " + t[1] + ", there is " + l[1] + " waiting to be understood."]
+];
+const norm = s => s.replace(/[\s\p{P}\p{S}]/gu,"").toLowerCase();
+const report = [];
+let total = 0;
+for (const [category,cfg] of Object.entries(data)) {
+ const file = path.join("quotes",category + ".json");
+ const existing = JSON.parse(await fs.readFile(file,"utf8"));
+ const known = new Set(existing.map(q => norm(q.telugu)));
+ let cursor = existing.length, added = 0;
+ const target = Object.keys(data).indexOf(category) < 4 ? 3 : 2;
+ while (added < target) {
+  const combo = Math.floor(cursor / 3);
+  const t = cfg[1][combo % cfg[1].length].split("|");
+  const l = cfg[2][(combo * 7 + Math.floor(combo / cfg[2].length)) % cfg[2].length].split("|");
+  const pair = templates[cursor % 3](t,l);
+  cursor++;
+  if (known.has(norm(pair[0]))) continue;
+  const next = Math.max(0,...existing.map(q => Number(q.id?.match(/(\d+)$/)?.[1] || 0))) + 1;
+  existing.push({id:cfg[0] + String(next).padStart(4,"0"),category,telugu:pair[0],english:pair[1],transliteration:"",mood:category,tags:[category,"telugu-quotes","daily"]});
+  known.add(norm(pair[0]));
+  added++;
+ }
+ await fs.writeFile(file,JSON.stringify(existing,null,2) + "\n");
+ report.push([category,added]);
+ total += added;
+ console.log("Added " + added + " quotes to quotes/" + category + ".json");
 }
-console.log(`Finished: added ${totalAdded} quotes across ${categories.length} categories. This offline fallback does not require an API key or credits.`);
+if (total !== 30) throw new Error("Expected exactly 30 new quotes, generated " + total);
+const table = report.map(([c,n]) => "| " + c + " | " + n + " |").join("\n");
+const summary = "## Telugu-English quote generation\n\n**New quotes added this run: " + total + " / 30**\n\n| Category | Added |\n|---|---:|\n" + table + "\n\nDuplicate Telugu text was skipped before saving.\n";
+console.log(summary);
+if (process.env.GITHUB_STEP_SUMMARY) await fs.appendFile(process.env.GITHUB_STEP_SUMMARY,summary);
+if (process.env.GITHUB_OUTPUT) await fs.appendFile(process.env.GITHUB_OUTPUT,"added=" + total + "\n");
