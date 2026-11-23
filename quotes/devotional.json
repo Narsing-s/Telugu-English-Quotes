@@ -89,5 +89,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "DEV0008",
+    "category": "devotional",
+    "telugu": "కాలం మారినా, భక్తితో చేసే సేవ ఇచ్చిన కృతజ్ఞతను మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, gratitude from service with devotion stays with us.",
+    "transliteration": "",
+    "mood": "devotional",
+    "tags": [
+      "devotional",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "DEV0009",
+    "category": "devotional",
+    "telugu": "ప్రతి భక్తితో చేసే సేవ వెనుక కృతజ్ఞతను దాగి ఉంటుంది.",
+    "english": "Behind every service with devotion, there is gratitude waiting to be understood.",
+    "transliteration": "",
+    "mood": "devotional",
+    "tags": [
+      "devotional",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

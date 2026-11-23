@@ -115,5 +115,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "FRI0010",
+    "category": "friendship",
+    "telugu": "కొన్ని పంచుకున్న నవ్వులు మనకు తోడుగా ఉండే బలాన్ని నేర్పిస్తాయి.",
+    "english": "Some shared laughter teach us the strength of support.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRI0011",
+    "category": "friendship",
+    "telugu": "కాలం మారినా, పంచుకున్న నవ్వులు ఇచ్చిన తోడుగా ఉండే బలాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, the strength of support from shared laughter stays with us.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRI0012",
+    "category": "friendship",
+    "telugu": "ప్రతి పంచుకున్న నవ్వులు వెనుక తోడుగా ఉండే బలాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every shared laughter, there is the strength of support waiting to be understood.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

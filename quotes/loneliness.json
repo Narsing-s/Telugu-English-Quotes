@@ -89,5 +89,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "LON0008",
+    "category": "loneliness",
+    "telugu": "కాలం మారినా, చెప్పని భావాలు ఇచ్చిన ఓర్పును మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, patience from unspoken feelings stays with us.",
+    "transliteration": "",
+    "mood": "loneliness",
+    "tags": [
+      "loneliness",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LON0009",
+    "category": "loneliness",
+    "telugu": "ప్రతి చెప్పని భావాలు వెనుక ఓర్పును దాగి ఉంటుంది.",
+    "english": "Behind every unspoken feelings, there is patience waiting to be understood.",
+    "transliteration": "",
+    "mood": "loneliness",
+    "tags": [
+      "loneliness",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

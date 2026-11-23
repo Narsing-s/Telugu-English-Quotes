@@ -89,5 +89,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "LIF0008",
+    "category": "life",
+    "telugu": "కాలం మారినా, చిన్న అనుభవం ఇచ్చిన ప్రతి రోజును గౌరవించడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, valuing each day from a small experience stays with us.",
+    "transliteration": "",
+    "mood": "life",
+    "tags": [
+      "life",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LIF0009",
+    "category": "life",
+    "telugu": "ప్రతి చిన్న అనుభవం వెనుక ప్రతి రోజును గౌరవించడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every a small experience, there is valuing each day waiting to be understood.",
+    "transliteration": "",
+    "mood": "life",
+    "tags": [
+      "life",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

@@ -89,5 +89,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "IND0008",
+    "category": "indirect-quotes",
+    "telugu": "కాలం మారినా, కాలం ఇచ్చే సమాధానం ఇచ్చిన మాటలకంటే ఎక్కువ చెబుతుంది మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, says more than words from time's answer stays with us.",
+    "transliteration": "",
+    "mood": "indirect-quotes",
+    "tags": [
+      "indirect-quotes",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "IND0009",
+    "category": "indirect-quotes",
+    "telugu": "ప్రతి కాలం ఇచ్చే సమాధానం వెనుక మాటలకంటే ఎక్కువ చెబుతుంది దాగి ఉంటుంది.",
+    "english": "Behind every time's answer, there is says more than words waiting to be understood.",
+    "transliteration": "",
+    "mood": "indirect-quotes",
+    "tags": [
+      "indirect-quotes",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

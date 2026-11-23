@@ -102,5 +102,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "LOV0009",
+    "category": "love",
+    "telugu": "ప్రతి ప్రియమైన వ్యక్తి వెనుక మనసుకు ప్రశాంతతను దాగి ఉంటుంది.",
+    "english": "Behind every a loved one, there is peace to the heart waiting to be understood.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LOV0010",
+    "category": "love",
+    "telugu": "కొన్ని కలిసి గడిపిన క్షణం మనకు చిన్న విషయాల విలువను నేర్పిస్తాయి.",
+    "english": "Some a moment together teach us the value of little things.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LOV0011",
+    "category": "love",
+    "telugu": "కాలం మారినా, కలిసి గడిపిన క్షణం ఇచ్చిన చిన్న విషయాల విలువను మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, the value of little things from a moment together stays with us.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

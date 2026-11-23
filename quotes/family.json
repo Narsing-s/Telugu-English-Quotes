@@ -89,5 +89,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "FAM0008",
+    "category": "family",
+    "telugu": "కాలం మారినా, ఇంటి చిరునవ్వులు ఇచ్చిన మన మూలాలను గుర్తించడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, remembering our roots from smiles at home stays with us.",
+    "transliteration": "",
+    "mood": "family",
+    "tags": [
+      "family",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FAM0009",
+    "category": "family",
+    "telugu": "ప్రతి ఇంటి చిరునవ్వులు వెనుక మన మూలాలను గుర్తించడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every smiles at home, there is remembering our roots waiting to be understood.",
+    "transliteration": "",
+    "mood": "family",
+    "tags": [
+      "family",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

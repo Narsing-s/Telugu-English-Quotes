@@ -89,5 +89,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "ATT0008",
+    "category": "attitude",
+    "telugu": "కాలం మారినా, మన నిర్ణయం ఇచ్చిన మన దారిలో నడవడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, walking our own path from our decision stays with us.",
+    "transliteration": "",
+    "mood": "attitude",
+    "tags": [
+      "attitude",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "ATT0009",
+    "category": "attitude",
+    "telugu": "ప్రతి మన నిర్ణయం వెనుక మన దారిలో నడవడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every our decision, there is walking our own path waiting to be understood.",
+    "transliteration": "",
+    "mood": "attitude",
+    "tags": [
+      "attitude",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

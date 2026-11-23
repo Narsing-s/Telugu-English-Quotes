@@ -89,5 +89,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "MOT0008",
+    "category": "motivation",
+    "telugu": "కాలం మారినా, క్రమశిక్షణ ఇచ్చిన ముందుకు వెళ్లే ధైర్యాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, courage to move ahead from discipline stays with us.",
+    "transliteration": "",
+    "mood": "motivation",
+    "tags": [
+      "motivation",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "MOT0009",
+    "category": "motivation",
+    "telugu": "ప్రతి క్రమశిక్షణ వెనుక ముందుకు వెళ్లే ధైర్యాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every discipline, there is courage to move ahead waiting to be understood.",
+    "transliteration": "",
+    "mood": "motivation",
+    "tags": [
+      "motivation",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

@@ -89,5 +89,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "HEA0008",
+    "category": "heartbreak",
+    "telugu": "కాలం మారినా, దూరమైన ప్రేమ ఇచ్చిన ఓర్పుతో ముందుకు సాగడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, moving forward patiently from love that drifted away stays with us.",
+    "transliteration": "",
+    "mood": "heartbreak",
+    "tags": [
+      "heartbreak",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "HEA0009",
+    "category": "heartbreak",
+    "telugu": "ప్రతి దూరమైన ప్రేమ వెనుక ఓర్పుతో ముందుకు సాగడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every love that drifted away, there is moving forward patiently waiting to be understood.",
+    "transliteration": "",
+    "mood": "heartbreak",
+    "tags": [
+      "heartbreak",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

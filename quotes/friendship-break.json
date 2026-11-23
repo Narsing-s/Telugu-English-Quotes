@@ -176,5 +176,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "FRB0014",
+    "category": "friendship-break",
+    "telugu": "కాలం మారినా, మౌనంగా మారిన బంధం ఇచ్చిన కొత్త ఆరంభాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, a fresh beginning from a silent bond stays with us.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRB0015",
+    "category": "friendship-break",
+    "telugu": "ప్రతి మౌనంగా మారిన బంధం వెనుక కొత్త ఆరంభాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every a silent bond, there is a fresh beginning waiting to be understood.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRB0016",
+    "category": "friendship-break",
+    "telugu": "కొన్ని పాత పరిచయం మనకు ఒంటరిగా ఎదగడాన్ని నేర్పిస్తాయి.",
+    "english": "Some an old connection teach us growing independently.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

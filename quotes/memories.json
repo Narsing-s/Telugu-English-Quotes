@@ -115,5 +115,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "MEM0010",
+    "category": "memories",
+    "telugu": "కొన్ని చెప్పని కథలు మనకు జీవితానికి అర్థాన్ని నేర్పిస్తాయి.",
+    "english": "Some untold stories teach us meaning to life.",
+    "transliteration": "",
+    "mood": "memories",
+    "tags": [
+      "memories",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "MEM0011",
+    "category": "memories",
+    "telugu": "కాలం మారినా, చెప్పని కథలు ఇచ్చిన జీవితానికి అర్థాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, meaning to life from untold stories stays with us.",
+    "transliteration": "",
+    "mood": "memories",
+    "tags": [
+      "memories",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "MEM0012",
+    "category": "memories",
+    "telugu": "ప్రతి చెప్పని కథలు వెనుక జీవితానికి అర్థాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every untold stories, there is meaning to life waiting to be understood.",
+    "transliteration": "",
+    "mood": "memories",
+    "tags": [
+      "memories",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

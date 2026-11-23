@@ -89,5 +89,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "SEL0008",
+    "category": "self-respect",
+    "telugu": "కాలం మారినా, మన విలువ ఇచ్చిన మనశ్శాంతిని ఎంచుకోవడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, choosing peace from our worth stays with us.",
+    "transliteration": "",
+    "mood": "self-respect",
+    "tags": [
+      "self-respect",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "SEL0009",
+    "category": "self-respect",
+    "telugu": "ప్రతి మన విలువ వెనుక మనశ్శాంతిని ఎంచుకోవడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every our worth, there is choosing peace waiting to be understood.",
+    "transliteration": "",
+    "mood": "self-respect",
+    "tags": [
+      "self-respect",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]
