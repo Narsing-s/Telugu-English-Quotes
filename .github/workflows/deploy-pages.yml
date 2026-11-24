@@ -6,6 +6,9 @@ on:
       - "index.html"
       - "styles.css"
       - "app.js"
+      - "manifest.webmanifest"
+      - "sw.js"
+      - "icon.svg"
       - "quotes/**"
       - ".github/workflows/deploy-pages.yml"
   workflow_dispatch:
@@ -39,8 +42,10 @@ jobs:
           test -f index.html
           test -f styles.css
           test -f app.js
+          test -f manifest.webmanifest
+          test -f sw.js
           test -d quotes
-          echo "Website source and quote data are present."
+          echo "Website source, PWA assets and quote data are present."
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
