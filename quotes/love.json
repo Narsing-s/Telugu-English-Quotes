@@ -141,5 +141,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "LOV0012",
+    "category": "love",
+    "telugu": "ప్రతి కలిసి గడిపిన క్షణం వెనుక చిన్న విషయాల విలువను దాగి ఉంటుంది.",
+    "english": "Behind every a moment together, there is the value of little things waiting to be understood.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LOV0013",
+    "category": "love",
+    "telugu": "కొన్ని ఆప్యాయమైన మాట మనకు కలిసి ఎదగడాన్ని నేర్పిస్తాయి.",
+    "english": "Some an affectionate word teach us growing together.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LOV0014",
+    "category": "love",
+    "telugu": "కాలం మారినా, ఆప్యాయమైన మాట ఇచ్చిన కలిసి ఎదగడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, growing together from an affectionate word stays with us.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

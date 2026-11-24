@@ -154,5 +154,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "FRI0013",
+    "category": "friendship",
+    "telugu": "కొన్ని నమ్మకమైన మిత్రుడు మనకు గౌరవాన్ని నేర్పిస్తాయి.",
+    "english": "Some a trusted friend teach us respect.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRI0014",
+    "category": "friendship",
+    "telugu": "కాలం మారినా, నమ్మకమైన మిత్రుడు ఇచ్చిన గౌరవాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, respect from a trusted friend stays with us.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRI0015",
+    "category": "friendship",
+    "telugu": "ప్రతి నమ్మకమైన మిత్రుడు వెనుక గౌరవాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every a trusted friend, there is respect waiting to be understood.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

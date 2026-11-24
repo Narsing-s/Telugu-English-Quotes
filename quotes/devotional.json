@@ -115,5 +115,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "DEV0010",
+    "category": "devotional",
+    "telugu": "కొన్ని దేవుని ఆశీర్వాదం మనకు కష్టాలను ఎదుర్కొనే ధైర్యాన్ని నేర్పిస్తాయి.",
+    "english": "Some God's blessings teach us courage to face hardship.",
+    "transliteration": "",
+    "mood": "devotional",
+    "tags": [
+      "devotional",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "DEV0011",
+    "category": "devotional",
+    "telugu": "కాలం మారినా, దేవుని ఆశీర్వాదం ఇచ్చిన కష్టాలను ఎదుర్కొనే ధైర్యాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, courage to face hardship from God's blessings stays with us.",
+    "transliteration": "",
+    "mood": "devotional",
+    "tags": [
+      "devotional",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

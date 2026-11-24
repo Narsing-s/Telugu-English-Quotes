@@ -115,5 +115,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "MOT0010",
+    "category": "motivation",
+    "telugu": "కొన్ని పట్టుదల మనకు మన సామర్థ్యాన్ని నేర్పిస్తాయి.",
+    "english": "Some determination teach us our potential.",
+    "transliteration": "",
+    "mood": "motivation",
+    "tags": [
+      "motivation",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "MOT0011",
+    "category": "motivation",
+    "telugu": "కాలం మారినా, పట్టుదల ఇచ్చిన మన సామర్థ్యాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, our potential from determination stays with us.",
+    "transliteration": "",
+    "mood": "motivation",
+    "tags": [
+      "motivation",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

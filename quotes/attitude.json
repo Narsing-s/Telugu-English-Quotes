@@ -115,5 +115,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "ATT0010",
+    "category": "attitude",
+    "telugu": "కొన్ని స్పష్టమైన ఆలోచన మనకు అవసరమైనప్పుడు మాట్లాడడాన్ని నేర్పిస్తాయి.",
+    "english": "Some clear thinking teach us speaking when it matters.",
+    "transliteration": "",
+    "mood": "attitude",
+    "tags": [
+      "attitude",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "ATT0011",
+    "category": "attitude",
+    "telugu": "కాలం మారినా, స్పష్టమైన ఆలోచన ఇచ్చిన అవసరమైనప్పుడు మాట్లాడడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, speaking when it matters from clear thinking stays with us.",
+    "transliteration": "",
+    "mood": "attitude",
+    "tags": [
+      "attitude",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

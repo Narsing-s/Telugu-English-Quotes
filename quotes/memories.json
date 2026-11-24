@@ -154,5 +154,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "MEM0013",
+    "category": "memories",
+    "telugu": "కొన్ని పాత లేఖలు మనకు మరచిపోలేని అనుభూతిని నేర్పిస్తాయి.",
+    "english": "Some old letters teach us an unforgettable feeling.",
+    "transliteration": "",
+    "mood": "memories",
+    "tags": [
+      "memories",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "MEM0014",
+    "category": "memories",
+    "telugu": "కాలం మారినా, పాత లేఖలు ఇచ్చిన మరచిపోలేని అనుభూతిని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, an unforgettable feeling from old letters stays with us.",
+    "transliteration": "",
+    "mood": "memories",
+    "tags": [
+      "memories",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "MEM0015",
+    "category": "memories",
+    "telugu": "ప్రతి పాత లేఖలు వెనుక మరచిపోలేని అనుభూతిని దాగి ఉంటుంది.",
+    "english": "Behind every old letters, there is an unforgettable feeling waiting to be understood.",
+    "transliteration": "",
+    "mood": "memories",
+    "tags": [
+      "memories",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

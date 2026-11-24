@@ -115,5 +115,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "IND0010",
+    "category": "indirect-quotes",
+    "telugu": "కొన్ని మారిన ప్రవర్తన మనకు మనసులోని నిజాన్ని చూపిస్తుంది నేర్పిస్తాయి.",
+    "english": "Some changed behavior teach us shows the truth in the heart.",
+    "transliteration": "",
+    "mood": "indirect-quotes",
+    "tags": [
+      "indirect-quotes",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "IND0011",
+    "category": "indirect-quotes",
+    "telugu": "కాలం మారినా, మారిన ప్రవర్తన ఇచ్చిన మనసులోని నిజాన్ని చూపిస్తుంది మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, shows the truth in the heart from changed behavior stays with us.",
+    "transliteration": "",
+    "mood": "indirect-quotes",
+    "tags": [
+      "indirect-quotes",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

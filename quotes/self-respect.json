@@ -115,5 +115,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "SEL0010",
+    "category": "self-respect",
+    "telugu": "కొన్ని మన నిర్ణయాలు మనకు అవసరమైన చోట వద్దనడాన్ని నేర్పిస్తాయి.",
+    "english": "Some our choices teach us saying no when needed.",
+    "transliteration": "",
+    "mood": "self-respect",
+    "tags": [
+      "self-respect",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "SEL0011",
+    "category": "self-respect",
+    "telugu": "కాలం మారినా, మన నిర్ణయాలు ఇచ్చిన అవసరమైన చోట వద్దనడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, saying no when needed from our choices stays with us.",
+    "transliteration": "",
+    "mood": "self-respect",
+    "tags": [
+      "self-respect",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

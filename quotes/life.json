@@ -115,5 +115,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "LIF0010",
+    "category": "life",
+    "telugu": "కొన్ని కష్టమైన రోజు మనకు మార్పును అంగీకరించడాన్ని నేర్పిస్తాయి.",
+    "english": "Some a difficult day teach us accepting change.",
+    "transliteration": "",
+    "mood": "life",
+    "tags": [
+      "life",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LIF0011",
+    "category": "life",
+    "telugu": "కాలం మారినా, కష్టమైన రోజు ఇచ్చిన మార్పును అంగీకరించడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, accepting change from a difficult day stays with us.",
+    "transliteration": "",
+    "mood": "life",
+    "tags": [
+      "life",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

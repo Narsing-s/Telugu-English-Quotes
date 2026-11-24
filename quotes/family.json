@@ -115,5 +115,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "FAM0010",
+    "category": "family",
+    "telugu": "కొన్ని కలిసి భోజనం మనకు కృతజ్ఞతను నేర్పిస్తాయి.",
+    "english": "Some a meal together teach us gratitude.",
+    "transliteration": "",
+    "mood": "family",
+    "tags": [
+      "family",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FAM0011",
+    "category": "family",
+    "telugu": "కాలం మారినా, కలిసి భోజనం ఇచ్చిన కృతజ్ఞతను మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, gratitude from a meal together stays with us.",
+    "transliteration": "",
+    "mood": "family",
+    "tags": [
+      "family",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

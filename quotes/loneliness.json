@@ -115,5 +115,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "LON0010",
+    "category": "loneliness",
+    "telugu": "కొన్ని ఎదురుచూపు మనకు అంతరంగ బలాన్ని నేర్పిస్తాయి.",
+    "english": "Some waiting teach us inner strength.",
+    "transliteration": "",
+    "mood": "loneliness",
+    "tags": [
+      "loneliness",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LON0011",
+    "category": "loneliness",
+    "telugu": "కాలం మారినా, ఎదురుచూపు ఇచ్చిన అంతరంగ బలాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, inner strength from waiting stays with us.",
+    "transliteration": "",
+    "mood": "loneliness",
+    "tags": [
+      "loneliness",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

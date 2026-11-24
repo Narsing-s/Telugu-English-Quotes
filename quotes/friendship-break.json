@@ -215,5 +215,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "FRB0017",
+    "category": "friendship-break",
+    "telugu": "కాలం మారినా, పాత పరిచయం ఇచ్చిన ఒంటరిగా ఎదగడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, growing independently from an old connection stays with us.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRB0018",
+    "category": "friendship-break",
+    "telugu": "ప్రతి పాత పరిచయం వెనుక ఒంటరిగా ఎదగడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every an old connection, there is growing independently waiting to be understood.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRB0019",
+    "category": "friendship-break",
+    "telugu": "కొన్ని చెప్పని బాధ మనకు గతం నుంచి నేర్చుకోవడాన్ని నేర్పిస్తాయి.",
+    "english": "Some unspoken hurt teach us learning from the past.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

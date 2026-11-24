@@ -115,5 +115,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "HEA0010",
+    "category": "heartbreak",
+    "telugu": "కొన్ని మిగిలిన బాధ మనకు మనసును నయం చేసుకోవడాన్ని నేర్పిస్తాయి.",
+    "english": "Some pain that remains teach us healing the heart.",
+    "transliteration": "",
+    "mood": "heartbreak",
+    "tags": [
+      "heartbreak",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "HEA0011",
+    "category": "heartbreak",
+    "telugu": "కాలం మారినా, మిగిలిన బాధ ఇచ్చిన మనసును నయం చేసుకోవడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, healing the heart from pain that remains stays with us.",
+    "transliteration": "",
+    "mood": "heartbreak",
+    "tags": [
+      "heartbreak",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]
