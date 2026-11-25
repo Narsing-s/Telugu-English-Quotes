@@ -141,5 +141,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "IND0012",
+    "category": "indirect-quotes",
+    "telugu": "ప్రతి మారిన ప్రవర్తన వెనుక మనసులోని నిజాన్ని చూపిస్తుంది దాగి ఉంటుంది.",
+    "english": "Behind every changed behavior, there is shows the truth in the heart waiting to be understood.",
+    "transliteration": "",
+    "mood": "indirect-quotes",
+    "tags": [
+      "indirect-quotes",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "IND0013",
+    "category": "indirect-quotes",
+    "telugu": "కొన్ని చెప్పని నిజం మనకు నిజాన్ని బయటకు తెస్తుంది నేర్పిస్తాయి.",
+    "english": "Some an unspoken truth teach us brings the truth out.",
+    "transliteration": "",
+    "mood": "indirect-quotes",
+    "tags": [
+      "indirect-quotes",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

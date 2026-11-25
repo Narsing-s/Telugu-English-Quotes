@@ -141,5 +141,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "MOT0012",
+    "category": "motivation",
+    "telugu": "ప్రతి పట్టుదల వెనుక మన సామర్థ్యాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every determination, there is our potential waiting to be understood.",
+    "transliteration": "",
+    "mood": "motivation",
+    "tags": [
+      "motivation",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "MOT0013",
+    "category": "motivation",
+    "telugu": "కొన్ని ఒక చిన్న అడుగు మనకు మనలోని బలాన్ని నేర్పిస్తాయి.",
+    "english": "Some one small step teach us the strength within us.",
+    "transliteration": "",
+    "mood": "motivation",
+    "tags": [
+      "motivation",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

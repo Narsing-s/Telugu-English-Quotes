@@ -193,5 +193,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "FRI0016",
+    "category": "friendship",
+    "telugu": "కొన్ని దూరంలో ఉన్న స్నేహితుడు మనకు మాటలకంటే పనుల విలువను నేర్పిస్తాయి.",
+    "english": "Some a distant friend teach us actions over words.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRI0017",
+    "category": "friendship",
+    "telugu": "కాలం మారినా, దూరంలో ఉన్న స్నేహితుడు ఇచ్చిన మాటలకంటే పనుల విలువను మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, actions over words from a distant friend stays with us.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRI0018",
+    "category": "friendship",
+    "telugu": "ప్రతి దూరంలో ఉన్న స్నేహితుడు వెనుక మాటలకంటే పనుల విలువను దాగి ఉంటుంది.",
+    "english": "Behind every a distant friend, there is actions over words waiting to be understood.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

@@ -141,5 +141,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "LON0012",
+    "category": "loneliness",
+    "telugu": "ప్రతి ఎదురుచూపు వెనుక అంతరంగ బలాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every waiting, there is inner strength waiting to be understood.",
+    "transliteration": "",
+    "mood": "loneliness",
+    "tags": [
+      "loneliness",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LON0013",
+    "category": "loneliness",
+    "telugu": "కొన్ని ఖాళీ సమయం మనకు మనసును వినడాన్ని నేర్పిస్తాయి.",
+    "english": "Some empty time teach us listening to ourselves.",
+    "transliteration": "",
+    "mood": "loneliness",
+    "tags": [
+      "loneliness",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

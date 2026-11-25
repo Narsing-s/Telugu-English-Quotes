@@ -141,5 +141,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "SEL0012",
+    "category": "self-respect",
+    "telugu": "ప్రతి మన నిర్ణయాలు వెనుక అవసరమైన చోట వద్దనడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every our choices, there is saying no when needed waiting to be understood.",
+    "transliteration": "",
+    "mood": "self-respect",
+    "tags": [
+      "self-respect",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "SEL0013",
+    "category": "self-respect",
+    "telugu": "కొన్ని మనశ్శాంతి మనకు మనసుకు నిజాయితీగా ఉండడాన్ని నేర్పిస్తాయి.",
+    "english": "Some peace of mind teach us being honest with ourselves.",
+    "transliteration": "",
+    "mood": "self-respect",
+    "tags": [
+      "self-respect",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

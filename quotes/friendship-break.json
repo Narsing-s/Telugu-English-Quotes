@@ -254,5 +254,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "FRB0020",
+    "category": "friendship-break",
+    "telugu": "కాలం మారినా, చెప్పని బాధ ఇచ్చిన గతం నుంచి నేర్చుకోవడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, learning from the past from unspoken hurt stays with us.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRB0021",
+    "category": "friendship-break",
+    "telugu": "ప్రతి చెప్పని బాధ వెనుక గతం నుంచి నేర్చుకోవడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every unspoken hurt, there is learning from the past waiting to be understood.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRB0022",
+    "category": "friendship-break",
+    "telugu": "కొన్ని విడిపోయిన దారులు మనకు మనసును బలపరచడాన్ని నేర్పిస్తాయి.",
+    "english": "Some separate paths teach us strengthening the heart.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

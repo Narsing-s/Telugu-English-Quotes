@@ -141,5 +141,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "FAM0012",
+    "category": "family",
+    "telugu": "ప్రతి కలిసి భోజనం వెనుక కృతజ్ఞతను దాగి ఉంటుంది.",
+    "english": "Behind every a meal together, there is gratitude waiting to be understood.",
+    "transliteration": "",
+    "mood": "family",
+    "tags": [
+      "family",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FAM0013",
+    "category": "family",
+    "telugu": "కొన్ని కుటుంబ సభ్యుల తోడు మనకు పంచుకోవడంలోని ఆనందాన్ని నేర్పిస్తాయి.",
+    "english": "Some support from family teach us the joy of sharing.",
+    "transliteration": "",
+    "mood": "family",
+    "tags": [
+      "family",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

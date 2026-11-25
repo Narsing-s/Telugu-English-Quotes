@@ -141,5 +141,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "DEV0012",
+    "category": "devotional",
+    "telugu": "ప్రతి దేవుని ఆశీర్వాదం వెనుక కష్టాలను ఎదుర్కొనే ధైర్యాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every God's blessings, there is courage to face hardship waiting to be understood.",
+    "transliteration": "",
+    "mood": "devotional",
+    "tags": [
+      "devotional",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "DEV0013",
+    "category": "devotional",
+    "telugu": "కొన్ని నిశ్శబ్ద ధ్యానం మనకు అంతరంగ బలాన్ని నేర్పిస్తాయి.",
+    "english": "Some silent meditation teach us inner strength.",
+    "transliteration": "",
+    "mood": "devotional",
+    "tags": [
+      "devotional",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

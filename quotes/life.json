@@ -141,5 +141,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "LIF0012",
+    "category": "life",
+    "telugu": "ప్రతి కష్టమైన రోజు వెనుక మార్పును అంగీకరించడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every a difficult day, there is accepting change waiting to be understood.",
+    "transliteration": "",
+    "mood": "life",
+    "tags": [
+      "life",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LIF0013",
+    "category": "life",
+    "telugu": "కొన్ని కొత్త ఆరంభం మనకు అనుభవం ఇచ్చే జ్ఞానాన్ని నేర్పిస్తాయి.",
+    "english": "Some a new beginning teach us wisdom from experience.",
+    "transliteration": "",
+    "mood": "life",
+    "tags": [
+      "life",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

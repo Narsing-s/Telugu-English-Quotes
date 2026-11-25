@@ -193,5 +193,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "MEM0016",
+    "category": "memories",
+    "telugu": "కొన్ని మరిచిన నవ్వులు మనకు మనుషుల విలువను నేర్పిస్తాయి.",
+    "english": "Some forgotten smiles teach us the value of people.",
+    "transliteration": "",
+    "mood": "memories",
+    "tags": [
+      "memories",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "MEM0017",
+    "category": "memories",
+    "telugu": "కాలం మారినా, మరిచిన నవ్వులు ఇచ్చిన మనుషుల విలువను మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, the value of people from forgotten smiles stays with us.",
+    "transliteration": "",
+    "mood": "memories",
+    "tags": [
+      "memories",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "MEM0018",
+    "category": "memories",
+    "telugu": "ప్రతి మరిచిన నవ్వులు వెనుక మనుషుల విలువను దాగి ఉంటుంది.",
+    "english": "Behind every forgotten smiles, there is the value of people waiting to be understood.",
+    "transliteration": "",
+    "mood": "memories",
+    "tags": [
+      "memories",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

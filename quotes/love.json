@@ -180,5 +180,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "LOV0015",
+    "category": "love",
+    "telugu": "ప్రతి ఆప్యాయమైన మాట వెనుక కలిసి ఎదగడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every an affectionate word, there is growing together waiting to be understood.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LOV0016",
+    "category": "love",
+    "telugu": "కొన్ని నమ్మకమైన తోడు మనకు ఒకరినొకరు అర్థం చేసుకోవడాన్ని నేర్పిస్తాయి.",
+    "english": "Some a dependable partner teach us understanding one another.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LOV0017",
+    "category": "love",
+    "telugu": "కాలం మారినా, నమ్మకమైన తోడు ఇచ్చిన ఒకరినొకరు అర్థం చేసుకోవడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, understanding one another from a dependable partner stays with us.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

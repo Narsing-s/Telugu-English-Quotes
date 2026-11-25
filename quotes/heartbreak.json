@@ -141,5 +141,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "HEA0012",
+    "category": "heartbreak",
+    "telugu": "ప్రతి మిగిలిన బాధ వెనుక మనసును నయం చేసుకోవడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every pain that remains, there is healing the heart waiting to be understood.",
+    "transliteration": "",
+    "mood": "heartbreak",
+    "tags": [
+      "heartbreak",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "HEA0013",
+    "category": "heartbreak",
+    "telugu": "కొన్ని నెరవేరని ఆశ మనకు మనశ్శాంతిని ఎంచుకోవడాన్ని నేర్పిస్తాయి.",
+    "english": "Some an unfulfilled hope teach us choosing peace.",
+    "transliteration": "",
+    "mood": "heartbreak",
+    "tags": [
+      "heartbreak",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

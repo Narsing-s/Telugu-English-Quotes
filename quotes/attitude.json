@@ -141,5 +141,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "ATT0012",
+    "category": "attitude",
+    "telugu": "ప్రతి స్పష్టమైన ఆలోచన వెనుక అవసరమైనప్పుడు మాట్లాడడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every clear thinking, there is speaking when it matters waiting to be understood.",
+    "transliteration": "",
+    "mood": "attitude",
+    "tags": [
+      "attitude",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "ATT0013",
+    "category": "attitude",
+    "telugu": "కొన్ని స్వతంత్రంగా నిలబడటం మనకు ధైర్యాన్ని నేర్పిస్తాయి.",
+    "english": "Some standing independently teach us courage.",
+    "transliteration": "",
+    "mood": "attitude",
+    "tags": [
+      "attitude",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]
