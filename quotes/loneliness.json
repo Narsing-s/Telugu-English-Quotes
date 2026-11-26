@@ -167,5 +167,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "LON0014",
+    "category": "loneliness",
+    "telugu": "కాలం మారినా, ఖాళీ సమయం ఇచ్చిన మనసును వినడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, listening to ourselves from empty time stays with us.",
+    "transliteration": "",
+    "mood": "loneliness",
+    "tags": [
+      "loneliness",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LON0015",
+    "category": "loneliness",
+    "telugu": "ప్రతి ఖాళీ సమయం వెనుక మనసును వినడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every empty time, there is listening to ourselves waiting to be understood.",
+    "transliteration": "",
+    "mood": "loneliness",
+    "tags": [
+      "loneliness",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

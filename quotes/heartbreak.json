@@ -167,5 +167,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "HEA0014",
+    "category": "heartbreak",
+    "telugu": "కాలం మారినా, నెరవేరని ఆశ ఇచ్చిన మనశ్శాంతిని ఎంచుకోవడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, choosing peace from an unfulfilled hope stays with us.",
+    "transliteration": "",
+    "mood": "heartbreak",
+    "tags": [
+      "heartbreak",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "HEA0015",
+    "category": "heartbreak",
+    "telugu": "ప్రతి నెరవేరని ఆశ వెనుక మనశ్శాంతిని ఎంచుకోవడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every an unfulfilled hope, there is choosing peace waiting to be understood.",
+    "transliteration": "",
+    "mood": "heartbreak",
+    "tags": [
+      "heartbreak",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

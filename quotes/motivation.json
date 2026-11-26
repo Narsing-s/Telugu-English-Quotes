@@ -167,5 +167,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "MOT0014",
+    "category": "motivation",
+    "telugu": "కాలం మారినా, ఒక చిన్న అడుగు ఇచ్చిన మనలోని బలాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, the strength within us from one small step stays with us.",
+    "transliteration": "",
+    "mood": "motivation",
+    "tags": [
+      "motivation",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "MOT0015",
+    "category": "motivation",
+    "telugu": "ప్రతి ఒక చిన్న అడుగు వెనుక మనలోని బలాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every one small step, there is the strength within us waiting to be understood.",
+    "transliteration": "",
+    "mood": "motivation",
+    "tags": [
+      "motivation",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

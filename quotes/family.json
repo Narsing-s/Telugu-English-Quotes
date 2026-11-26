@@ -167,5 +167,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "FAM0014",
+    "category": "family",
+    "telugu": "కాలం మారినా, కుటుంబ సభ్యుల తోడు ఇచ్చిన పంచుకోవడంలోని ఆనందాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, the joy of sharing from support from family stays with us.",
+    "transliteration": "",
+    "mood": "family",
+    "tags": [
+      "family",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FAM0015",
+    "category": "family",
+    "telugu": "ప్రతి కుటుంబ సభ్యుల తోడు వెనుక పంచుకోవడంలోని ఆనందాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every support from family, there is the joy of sharing waiting to be understood.",
+    "transliteration": "",
+    "mood": "family",
+    "tags": [
+      "family",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

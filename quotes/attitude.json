@@ -167,5 +167,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "ATT0014",
+    "category": "attitude",
+    "telugu": "కాలం మారినా, స్వతంత్రంగా నిలబడటం ఇచ్చిన ధైర్యాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, courage from standing independently stays with us.",
+    "transliteration": "",
+    "mood": "attitude",
+    "tags": [
+      "attitude",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "ATT0015",
+    "category": "attitude",
+    "telugu": "ప్రతి స్వతంత్రంగా నిలబడటం వెనుక ధైర్యాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every standing independently, there is courage waiting to be understood.",
+    "transliteration": "",
+    "mood": "attitude",
+    "tags": [
+      "attitude",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

@@ -293,5 +293,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "FRB0023",
+    "category": "friendship-break",
+    "telugu": "కాలం మారినా, విడిపోయిన దారులు ఇచ్చిన మనసును బలపరచడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, strengthening the heart from separate paths stays with us.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRB0024",
+    "category": "friendship-break",
+    "telugu": "ప్రతి విడిపోయిన దారులు వెనుక మనసును బలపరచడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every separate paths, there is strengthening the heart waiting to be understood.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRB0025",
+    "category": "friendship-break",
+    "telugu": "కొన్ని మారిన ప్రాధాన్యతలు మనకు క్షమించి ముందుకు సాగడాన్ని నేర్పిస్తాయి.",
+    "english": "Some changed priorities teach us forgiving and moving on.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

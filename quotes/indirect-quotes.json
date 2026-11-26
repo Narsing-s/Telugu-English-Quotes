@@ -167,5 +167,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "IND0014",
+    "category": "indirect-quotes",
+    "telugu": "కాలం మారినా, చెప్పని నిజం ఇచ్చిన నిజాన్ని బయటకు తెస్తుంది మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, brings the truth out from an unspoken truth stays with us.",
+    "transliteration": "",
+    "mood": "indirect-quotes",
+    "tags": [
+      "indirect-quotes",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "IND0015",
+    "category": "indirect-quotes",
+    "telugu": "ప్రతి చెప్పని నిజం వెనుక నిజాన్ని బయటకు తెస్తుంది దాగి ఉంటుంది.",
+    "english": "Behind every an unspoken truth, there is brings the truth out waiting to be understood.",
+    "transliteration": "",
+    "mood": "indirect-quotes",
+    "tags": [
+      "indirect-quotes",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

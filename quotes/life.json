@@ -167,5 +167,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "LIF0014",
+    "category": "life",
+    "telugu": "కాలం మారినా, కొత్త ఆరంభం ఇచ్చిన అనుభవం ఇచ్చే జ్ఞానాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, wisdom from experience from a new beginning stays with us.",
+    "transliteration": "",
+    "mood": "life",
+    "tags": [
+      "life",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LIF0015",
+    "category": "life",
+    "telugu": "ప్రతి కొత్త ఆరంభం వెనుక అనుభవం ఇచ్చే జ్ఞానాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every a new beginning, there is wisdom from experience waiting to be understood.",
+    "transliteration": "",
+    "mood": "life",
+    "tags": [
+      "life",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

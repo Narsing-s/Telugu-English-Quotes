@@ -167,5 +167,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "DEV0014",
+    "category": "devotional",
+    "telugu": "కాలం మారినా, నిశ్శబ్ద ధ్యానం ఇచ్చిన అంతరంగ బలాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, inner strength from silent meditation stays with us.",
+    "transliteration": "",
+    "mood": "devotional",
+    "tags": [
+      "devotional",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "DEV0015",
+    "category": "devotional",
+    "telugu": "ప్రతి నిశ్శబ్ద ధ్యానం వెనుక అంతరంగ బలాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every silent meditation, there is inner strength waiting to be understood.",
+    "transliteration": "",
+    "mood": "devotional",
+    "tags": [
+      "devotional",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

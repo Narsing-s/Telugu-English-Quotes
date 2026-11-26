@@ -232,5 +232,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "FRI0019",
+    "category": "friendship",
+    "telugu": "కొన్ని మనస్ఫూర్తి మాటలు మనకు మనసుకు ధైర్యాన్ని నేర్పిస్తాయి.",
+    "english": "Some sincere words teach us courage to the heart.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRI0020",
+    "category": "friendship",
+    "telugu": "కాలం మారినా, మనస్ఫూర్తి మాటలు ఇచ్చిన మనసుకు ధైర్యాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, courage to the heart from sincere words stays with us.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRI0021",
+    "category": "friendship",
+    "telugu": "ప్రతి మనస్ఫూర్తి మాటలు వెనుక మనసుకు ధైర్యాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every sincere words, there is courage to the heart waiting to be understood.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

@@ -219,5 +219,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "LOV0018",
+    "category": "love",
+    "telugu": "ప్రతి నమ్మకమైన తోడు వెనుక ఒకరినొకరు అర్థం చేసుకోవడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every a dependable partner, there is understanding one another waiting to be understood.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LOV0019",
+    "category": "love",
+    "telugu": "కొన్ని మనస్ఫూర్తి నవ్వు మనకు గౌరవం ప్రాముఖ్యతను నేర్పిస్తాయి.",
+    "english": "Some a heartfelt smile teach us the importance of respect.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LOV0020",
+    "category": "love",
+    "telugu": "కాలం మారినా, మనస్ఫూర్తి నవ్వు ఇచ్చిన గౌరవం ప్రాముఖ్యతను మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, the importance of respect from a heartfelt smile stays with us.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

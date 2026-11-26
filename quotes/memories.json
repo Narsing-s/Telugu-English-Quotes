@@ -232,5 +232,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "MEM0019",
+    "category": "memories",
+    "telugu": "కొన్ని దూరమైన రోజులు మనకు ఒక కొత్త పాఠాన్ని నేర్పిస్తాయి.",
+    "english": "Some distant days teach us a new lesson.",
+    "transliteration": "",
+    "mood": "memories",
+    "tags": [
+      "memories",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "MEM0020",
+    "category": "memories",
+    "telugu": "కాలం మారినా, దూరమైన రోజులు ఇచ్చిన ఒక కొత్త పాఠాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, a new lesson from distant days stays with us.",
+    "transliteration": "",
+    "mood": "memories",
+    "tags": [
+      "memories",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "MEM0021",
+    "category": "memories",
+    "telugu": "ప్రతి దూరమైన రోజులు వెనుక ఒక కొత్త పాఠాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every distant days, there is a new lesson waiting to be understood.",
+    "transliteration": "",
+    "mood": "memories",
+    "tags": [
+      "memories",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]
