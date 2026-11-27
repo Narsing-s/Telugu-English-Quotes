@@ -193,5 +193,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "FAM0016",
+    "category": "family",
+    "telugu": "కొన్ని చిన్న త్యాగాలు మనకు ఆప్యాయతను నేర్పిస్తాయి.",
+    "english": "Some small sacrifices teach us affection.",
+    "transliteration": "",
+    "mood": "family",
+    "tags": [
+      "family",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FAM0017",
+    "category": "family",
+    "telugu": "కాలం మారినా, చిన్న త్యాగాలు ఇచ్చిన ఆప్యాయతను మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, affection from small sacrifices stays with us.",
+    "transliteration": "",
+    "mood": "family",
+    "tags": [
+      "family",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

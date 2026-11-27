@@ -193,5 +193,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "LON0016",
+    "category": "loneliness",
+    "telugu": "కొన్ని మనసులోని మాట మనకు మన భావాలను అంగీకరించడాన్ని నేర్పిస్తాయి.",
+    "english": "Some the words in our heart teach us accepting our feelings.",
+    "transliteration": "",
+    "mood": "loneliness",
+    "tags": [
+      "loneliness",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LON0017",
+    "category": "loneliness",
+    "telugu": "కాలం మారినా, మనసులోని మాట ఇచ్చిన మన భావాలను అంగీకరించడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, accepting our feelings from the words in our heart stays with us.",
+    "transliteration": "",
+    "mood": "loneliness",
+    "tags": [
+      "loneliness",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

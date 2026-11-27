@@ -193,5 +193,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "LIF0016",
+    "category": "life",
+    "telugu": "కొన్ని అనుకోని మార్పు మనకు ఆశను నిలుపుకోవడాన్ని నేర్పిస్తాయి.",
+    "english": "Some an unexpected change teach us keeping hope alive.",
+    "transliteration": "",
+    "mood": "life",
+    "tags": [
+      "life",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LIF0017",
+    "category": "life",
+    "telugu": "కాలం మారినా, అనుకోని మార్పు ఇచ్చిన ఆశను నిలుపుకోవడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, keeping hope alive from an unexpected change stays with us.",
+    "transliteration": "",
+    "mood": "life",
+    "tags": [
+      "life",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

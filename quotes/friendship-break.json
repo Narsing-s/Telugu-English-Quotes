@@ -332,5 +332,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "FRB0026",
+    "category": "friendship-break",
+    "telugu": "కాలం మారినా, మారిన ప్రాధాన్యతలు ఇచ్చిన క్షమించి ముందుకు సాగడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, forgiving and moving on from changed priorities stays with us.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRB0027",
+    "category": "friendship-break",
+    "telugu": "ప్రతి మారిన ప్రాధాన్యతలు వెనుక క్షమించి ముందుకు సాగడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every changed priorities, there is forgiving and moving on waiting to be understood.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRB0028",
+    "category": "friendship-break",
+    "telugu": "కొన్ని మిగిలిన జ్ఞాపకాలు మనకు మన విలువను గుర్తించడాన్ని నేర్పిస్తాయి.",
+    "english": "Some memories left behind teach us recognizing our worth.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

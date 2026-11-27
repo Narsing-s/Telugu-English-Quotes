@@ -258,5 +258,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "LOV0021",
+    "category": "love",
+    "telugu": "ప్రతి మనస్ఫూర్తి నవ్వు వెనుక గౌరవం ప్రాముఖ్యతను దాగి ఉంటుంది.",
+    "english": "Behind every a heartfelt smile, there is the importance of respect waiting to be understood.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LOV0022",
+    "category": "love",
+    "telugu": "కొన్ని దూరంలో ఉన్న ప్రేమ మనకు ప్రేమకు అర్థాన్ని నేర్పిస్తాయి.",
+    "english": "Some love across distance teach us the meaning of love.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LOV0023",
+    "category": "love",
+    "telugu": "కాలం మారినా, దూరంలో ఉన్న ప్రేమ ఇచ్చిన ప్రేమకు అర్థాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, the meaning of love from love across distance stays with us.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

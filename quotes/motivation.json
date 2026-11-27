@@ -193,5 +193,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "MOT0016",
+    "category": "motivation",
+    "telugu": "కొన్ని కలల కోసం చేసే పని మనకు కలలను నిజం చేసే మార్గాన్ని నేర్పిస్తాయి.",
+    "english": "Some work toward a dream teach us the way to make dreams real.",
+    "transliteration": "",
+    "mood": "motivation",
+    "tags": [
+      "motivation",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "MOT0017",
+    "category": "motivation",
+    "telugu": "కాలం మారినా, కలల కోసం చేసే పని ఇచ్చిన కలలను నిజం చేసే మార్గాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, the way to make dreams real from work toward a dream stays with us.",
+    "transliteration": "",
+    "mood": "motivation",
+    "tags": [
+      "motivation",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

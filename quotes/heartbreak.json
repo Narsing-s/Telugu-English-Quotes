@@ -193,5 +193,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "HEA0016",
+    "category": "heartbreak",
+    "telugu": "కొన్ని మారిన బంధం మనకు కొత్త ఆశను నేర్పిస్తాయి.",
+    "english": "Some a changed relationship teach us new hope.",
+    "transliteration": "",
+    "mood": "heartbreak",
+    "tags": [
+      "heartbreak",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "HEA0017",
+    "category": "heartbreak",
+    "telugu": "కాలం మారినా, మారిన బంధం ఇచ్చిన కొత్త ఆశను మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, new hope from a changed relationship stays with us.",
+    "transliteration": "",
+    "mood": "heartbreak",
+    "tags": [
+      "heartbreak",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

@@ -193,5 +193,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "ATT0016",
+    "category": "attitude",
+    "telugu": "కొన్ని నిజాయితీ మనకు అనవసరమైన మాటలను వదిలేయడాన్ని నేర్పిస్తాయి.",
+    "english": "Some honesty teach us letting go of needless words.",
+    "transliteration": "",
+    "mood": "attitude",
+    "tags": [
+      "attitude",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "ATT0017",
+    "category": "attitude",
+    "telugu": "కాలం మారినా, నిజాయితీ ఇచ్చిన అనవసరమైన మాటలను వదిలేయడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, letting go of needless words from honesty stays with us.",
+    "transliteration": "",
+    "mood": "attitude",
+    "tags": [
+      "attitude",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

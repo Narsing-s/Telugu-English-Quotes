@@ -193,5 +193,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "DEV0016",
+    "category": "devotional",
+    "telugu": "కొన్ని ఆలయ దర్శనం మనకు సహనాన్ని నేర్పిస్తాయి.",
+    "english": "Some a temple visit teach us patience.",
+    "transliteration": "",
+    "mood": "devotional",
+    "tags": [
+      "devotional",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "DEV0017",
+    "category": "devotional",
+    "telugu": "కాలం మారినా, ఆలయ దర్శనం ఇచ్చిన సహనాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, patience from a temple visit stays with us.",
+    "transliteration": "",
+    "mood": "devotional",
+    "tags": [
+      "devotional",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

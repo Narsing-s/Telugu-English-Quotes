@@ -271,5 +271,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "FRI0022",
+    "category": "friendship",
+    "telugu": "కొన్ని చిన్న సహాయం మనకు జీవితాంతం నిలిచే గుర్తును నేర్పిస్తాయి.",
+    "english": "Some a small act of help teach us a lasting memory.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRI0023",
+    "category": "friendship",
+    "telugu": "కాలం మారినా, చిన్న సహాయం ఇచ్చిన జీవితాంతం నిలిచే గుర్తును మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, a lasting memory from a small act of help stays with us.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRI0024",
+    "category": "friendship",
+    "telugu": "ప్రతి చిన్న సహాయం వెనుక జీవితాంతం నిలిచే గుర్తును దాగి ఉంటుంది.",
+    "english": "Behind every a small act of help, there is a lasting memory waiting to be understood.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

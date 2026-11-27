@@ -193,5 +193,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "IND0016",
+    "category": "indirect-quotes",
+    "telugu": "కొన్ని దూరంగా ఉన్న చూపు మనకు ఆలోచింపజేస్తుంది నేర్పిస్తాయి.",
+    "english": "Some a distant glance teach us makes us think.",
+    "transliteration": "",
+    "mood": "indirect-quotes",
+    "tags": [
+      "indirect-quotes",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "IND0017",
+    "category": "indirect-quotes",
+    "telugu": "కాలం మారినా, దూరంగా ఉన్న చూపు ఇచ్చిన ఆలోచింపజేస్తుంది మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, makes us think from a distant glance stays with us.",
+    "transliteration": "",
+    "mood": "indirect-quotes",
+    "tags": [
+      "indirect-quotes",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

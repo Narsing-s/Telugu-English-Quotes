@@ -193,5 +193,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "SEL0016",
+    "category": "self-respect",
+    "telugu": "కొన్ని స్వతంత్రత మనకు మన కోసం నిలబడడాన్ని నేర్పిస్తాయి.",
+    "english": "Some independence teach us standing up for ourselves.",
+    "transliteration": "",
+    "mood": "self-respect",
+    "tags": [
+      "self-respect",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "SEL0017",
+    "category": "self-respect",
+    "telugu": "కాలం మారినా, స్వతంత్రత ఇచ్చిన మన కోసం నిలబడడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, standing up for ourselves from independence stays with us.",
+    "transliteration": "",
+    "mood": "self-respect",
+    "tags": [
+      "self-respect",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]
