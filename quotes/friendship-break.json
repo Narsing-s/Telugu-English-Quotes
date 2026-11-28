@@ -371,5 +371,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "FRB0029",
+    "category": "friendship-break",
+    "telugu": "కాలం మారినా, మిగిలిన జ్ఞాపకాలు ఇచ్చిన మన విలువను గుర్తించడాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, recognizing our worth from memories left behind stays with us.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRB0030",
+    "category": "friendship-break",
+    "telugu": "ప్రతి మిగిలిన జ్ఞాపకాలు వెనుక మన విలువను గుర్తించడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every memories left behind, there is recognizing our worth waiting to be understood.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRB0031",
+    "category": "friendship-break",
+    "telugu": "కొన్ని ముగిసిన స్నేహం మనకు మనశ్శాంతిని కాపాడుకోవడాన్ని నేర్పిస్తాయి.",
+    "english": "Some an ended friendship teach us protecting peace of mind.",
+    "transliteration": "",
+    "mood": "friendship-break",
+    "tags": [
+      "friendship-break",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

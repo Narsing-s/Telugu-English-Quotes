@@ -219,5 +219,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "HEA0018",
+    "category": "heartbreak",
+    "telugu": "ప్రతి మారిన బంధం వెనుక కొత్త ఆశను దాగి ఉంటుంది.",
+    "english": "Behind every a changed relationship, there is new hope waiting to be understood.",
+    "transliteration": "",
+    "mood": "heartbreak",
+    "tags": [
+      "heartbreak",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "HEA0019",
+    "category": "heartbreak",
+    "telugu": "కొన్ని ఒంటరి రాత్రి మనకు మన విలువను గుర్తించడాన్ని నేర్పిస్తాయి.",
+    "english": "Some a lonely night teach us recognizing our worth.",
+    "transliteration": "",
+    "mood": "heartbreak",
+    "tags": [
+      "heartbreak",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

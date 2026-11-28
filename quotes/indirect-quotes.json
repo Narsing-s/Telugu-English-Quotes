@@ -219,5 +219,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "IND0018",
+    "category": "indirect-quotes",
+    "telugu": "ప్రతి దూరంగా ఉన్న చూపు వెనుక ఆలోచింపజేస్తుంది దాగి ఉంటుంది.",
+    "english": "Behind every a distant glance, there is makes us think waiting to be understood.",
+    "transliteration": "",
+    "mood": "indirect-quotes",
+    "tags": [
+      "indirect-quotes",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "IND0019",
+    "category": "indirect-quotes",
+    "telugu": "కొన్ని చిన్న సంకేతం మనకు సమాధానం చెప్పగలదు నేర్పిస్తాయి.",
+    "english": "Some a subtle sign teach us can speak for itself.",
+    "transliteration": "",
+    "mood": "indirect-quotes",
+    "tags": [
+      "indirect-quotes",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

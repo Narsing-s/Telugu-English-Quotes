@@ -219,5 +219,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "ATT0018",
+    "category": "attitude",
+    "telugu": "ప్రతి నిజాయితీ వెనుక అనవసరమైన మాటలను వదిలేయడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every honesty, there is letting go of needless words waiting to be understood.",
+    "transliteration": "",
+    "mood": "attitude",
+    "tags": [
+      "attitude",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "ATT0019",
+    "category": "attitude",
+    "telugu": "కొన్ని మన సమయం మనకు హద్దులను కాపాడుకోవడాన్ని నేర్పిస్తాయి.",
+    "english": "Some our time teach us protecting boundaries.",
+    "transliteration": "",
+    "mood": "attitude",
+    "tags": [
+      "attitude",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

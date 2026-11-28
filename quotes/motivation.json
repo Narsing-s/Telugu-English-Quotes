@@ -219,5 +219,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "MOT0018",
+    "category": "motivation",
+    "telugu": "ప్రతి కలల కోసం చేసే పని వెనుక కలలను నిజం చేసే మార్గాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every work toward a dream, there is the way to make dreams real waiting to be understood.",
+    "transliteration": "",
+    "mood": "motivation",
+    "tags": [
+      "motivation",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "MOT0019",
+    "category": "motivation",
+    "telugu": "కొన్ని విఫలమైన ప్రయత్నం మనకు విజయానికి పునాదిని నేర్పిస్తాయి.",
+    "english": "Some a failed attempt teach us the foundation of success.",
+    "transliteration": "",
+    "mood": "motivation",
+    "tags": [
+      "motivation",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

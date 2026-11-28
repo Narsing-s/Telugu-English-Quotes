@@ -219,5 +219,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "FAM0018",
+    "category": "family",
+    "telugu": "ప్రతి చిన్న త్యాగాలు వెనుక ఆప్యాయతను దాగి ఉంటుంది.",
+    "english": "Behind every small sacrifices, there is affection waiting to be understood.",
+    "transliteration": "",
+    "mood": "family",
+    "tags": [
+      "family",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FAM0019",
+    "category": "family",
+    "telugu": "కొన్ని ఇంటి జ్ఞాపకాలు మనకు కలిసి ఉండే బలాన్ని నేర్పిస్తాయి.",
+    "english": "Some memories of home teach us the strength of togetherness.",
+    "transliteration": "",
+    "mood": "family",
+    "tags": [
+      "family",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

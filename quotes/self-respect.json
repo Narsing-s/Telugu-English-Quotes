@@ -219,5 +219,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "SEL0018",
+    "category": "self-respect",
+    "telugu": "ప్రతి స్వతంత్రత వెనుక మన కోసం నిలబడడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every independence, there is standing up for ourselves waiting to be understood.",
+    "transliteration": "",
+    "mood": "self-respect",
+    "tags": [
+      "self-respect",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "SEL0019",
+    "category": "self-respect",
+    "telugu": "కొన్ని మన సమయం మనకు మన విలువను కాపాడుకోవడాన్ని నేర్పిస్తాయి.",
+    "english": "Some our time teach us protecting our worth.",
+    "transliteration": "",
+    "mood": "self-respect",
+    "tags": [
+      "self-respect",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

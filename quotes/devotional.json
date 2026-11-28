@@ -219,5 +219,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "DEV0018",
+    "category": "devotional",
+    "telugu": "ప్రతి ఆలయ దర్శనం వెనుక సహనాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every a temple visit, there is patience waiting to be understood.",
+    "transliteration": "",
+    "mood": "devotional",
+    "tags": [
+      "devotional",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "DEV0019",
+    "category": "devotional",
+    "telugu": "కొన్ని మనస్ఫూర్తి పిలుపు మనకు ఆశను నిలిపే శక్తిని నేర్పిస్తాయి.",
+    "english": "Some a heartfelt prayer teach us strength to keep hope.",
+    "transliteration": "",
+    "mood": "devotional",
+    "tags": [
+      "devotional",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

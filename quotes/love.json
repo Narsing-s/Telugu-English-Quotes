@@ -297,5 +297,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "LOV0024",
+    "category": "love",
+    "telugu": "ప్రతి దూరంలో ఉన్న ప్రేమ వెనుక ప్రేమకు అర్థాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every love across distance, there is the meaning of love waiting to be understood.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LOV0025",
+    "category": "love",
+    "telugu": "కొన్ని చిన్న బహుమతి మనకు పంచుకోవడంలోని ఆనందాన్ని నేర్పిస్తాయి.",
+    "english": "Some a small gift teach us the joy of sharing.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LOV0026",
+    "category": "love",
+    "telugu": "కాలం మారినా, చిన్న బహుమతి ఇచ్చిన పంచుకోవడంలోని ఆనందాన్ని మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, the joy of sharing from a small gift stays with us.",
+    "transliteration": "",
+    "mood": "love",
+    "tags": [
+      "love",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

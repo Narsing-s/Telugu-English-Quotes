@@ -219,5 +219,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "LIF0018",
+    "category": "life",
+    "telugu": "ప్రతి అనుకోని మార్పు వెనుక ఆశను నిలుపుకోవడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every an unexpected change, there is keeping hope alive waiting to be understood.",
+    "transliteration": "",
+    "mood": "life",
+    "tags": [
+      "life",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LIF0019",
+    "category": "life",
+    "telugu": "కొన్ని నెమ్మదైన అడుగు మనకు మళ్లీ ప్రయత్నించడాన్ని నేర్పిస్తాయి.",
+    "english": "Some a slow step teach us trying again.",
+    "transliteration": "",
+    "mood": "life",
+    "tags": [
+      "life",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

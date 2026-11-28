@@ -310,5 +310,44 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "FRI0025",
+    "category": "friendship",
+    "telugu": "కొన్ని పాత స్నేహ బంధం మనకు క్షమించే మనసును నేర్పిస్తాయి.",
+    "english": "Some an old friendship teach us a forgiving heart.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRI0026",
+    "category": "friendship",
+    "telugu": "కాలం మారినా, పాత స్నేహ బంధం ఇచ్చిన క్షమించే మనసును మనలో నిలిచిపోతుంది.",
+    "english": "Even as time changes, a forgiving heart from an old friendship stays with us.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "FRI0027",
+    "category": "friendship",
+    "telugu": "ప్రతి పాత స్నేహ బంధం వెనుక క్షమించే మనసును దాగి ఉంటుంది.",
+    "english": "Behind every an old friendship, there is a forgiving heart waiting to be understood.",
+    "transliteration": "",
+    "mood": "friendship",
+    "tags": [
+      "friendship",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]

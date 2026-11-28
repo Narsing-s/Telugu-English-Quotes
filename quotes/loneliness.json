@@ -219,5 +219,31 @@
       "telugu-quotes",
       "daily"
     ]
+  },
+  {
+    "id": "LON0018",
+    "category": "loneliness",
+    "telugu": "ప్రతి మనసులోని మాట వెనుక మన భావాలను అంగీకరించడాన్ని దాగి ఉంటుంది.",
+    "english": "Behind every the words in our heart, there is accepting our feelings waiting to be understood.",
+    "transliteration": "",
+    "mood": "loneliness",
+    "tags": [
+      "loneliness",
+      "telugu-quotes",
+      "daily"
+    ]
+  },
+  {
+    "id": "LON0019",
+    "category": "loneliness",
+    "telugu": "కొన్ని దూరమైన మనుషులు మనకు మనసుకు ఓదార్పును నేర్పిస్తాయి.",
+    "english": "Some people who drifted away teach us comfort to the heart.",
+    "transliteration": "",
+    "mood": "loneliness",
+    "tags": [
+      "loneliness",
+      "telugu-quotes",
+      "daily"
+    ]
   }
 ]
